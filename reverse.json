@@ -1,0 +1,762 @@
+{
+    "S": [
+        "second",
+        "siemens",
+        "spat",
+        "second (sidereal)"
+    ],
+    "M": [
+        "metre",
+        "nautical mile",
+        "basic module",
+        "molar",
+        "minute (sidereal)",
+        "Richter magnitude"
+    ],
+    "KG": [
+        "kilogram"
+    ],
+    "A": [
+        "ampere",
+        "are",
+        "angstrom",
+        "year",
+        "year (tropical or seasonal)"
+    ],
+    "K": [
+        "kelvin",
+        "kayser"
+    ],
+    "MOL": [
+        "mole"
+    ],
+    "CD": [
+        "candela",
+        "cord (128 ft\u00b3)"
+    ],
+    "AU": [
+        "astronomical unit"
+    ],
+    "PC": [
+        "parsec",
+        "parsec (astronomy)"
+    ],
+    "NP": [
+        "neper"
+    ],
+    "B": [
+        "bel",
+        "barn",
+        "buckingham"
+    ],
+    "DB": [
+        "decibel",
+        "decibel (sound level)",
+        "decibel (sound pressure level)"
+    ],
+    "U": [
+        "unified atomic mass unit",
+        "atomic mass unit (unified)"
+    ],
+    "DA": [
+        "dalton",
+        "dalton (atomic mass unit)"
+    ],
+    "\u0126": [
+        "n.u. of action",
+        "a.u. of action"
+    ],
+    "ME": [
+        "n.u. of mass",
+        "a.u. of mass",
+        "electron rest mass"
+    ],
+    "E": [
+        "atomic unit (a.u.) of charge",
+        "eotvos",
+        "charge unit"
+    ],
+    "EH": [
+        "a.u. of energy"
+    ],
+    "KN": [
+        "knot"
+    ],
+    "KT": [
+        "knot"
+    ],
+    "\u00c5": [
+        "\u00e5ngstr\u00f6m",
+        "angstrom"
+    ],
+    "HA": [
+        "hectare",
+        "hectacre"
+    ],
+    "BAR": [
+        "bar"
+    ],
+    "ATM": [
+        "standard atmosphere",
+        "atmosphere (standard)"
+    ],
+    "GAL": [
+        "gal",
+        "gallon (US liquid)"
+    ],
+    "CI": [
+        "curie"
+    ],
+    "R": [
+        "roentgen",
+        "rayleigh",
+        "rem (Roentgen equivalent man)",
+        "revolution (turn)",
+        "R-value"
+    ],
+    "RAD": [
+        "rad",
+        "radian"
+    ],
+    "RD": [
+        "rad",
+        "rod (US survey) (16.5 survey feet)"
+    ],
+    "REM": [
+        "rem",
+        "roentgen equivalent man"
+    ],
+    "ERG": [
+        "erg"
+    ],
+    "DYN": [
+        "dyne"
+    ],
+    "P": [
+        "poise",
+        "poncelet"
+    ],
+    "ST": [
+        "stokes",
+        "stokes",
+        "stere",
+        "stokes (cm\u00b2/s)"
+    ],
+    "MX": [
+        "maxwell"
+    ],
+    "G": [
+        "gauss",
+        "degrees API (API gravity) (petroleum)",
+        "standard gravity, free fall, or \"gee\""
+    ],
+    "GS": [
+        "gauss"
+    ],
+    "OE": [
+        "\u00f8rsted",
+        "oersted",
+        "oersted ?"
+    ],
+    "PH": [
+        "phot",
+        "phot ?"
+    ],
+    "TORR": [
+        "torr",
+        "torr"
+    ],
+    "KGF": [
+        "kilogram-force",
+        "kilogram-force (\u201ckilogram\u201d)"
+    ],
+    "CAL": [
+        "calorie",
+        "caliber (US)",
+        "Calorie (nutritional) (ADA)"
+    ],
+    "\u039c": [
+        "micron",
+        "micron"
+    ],
+    "XU": [
+        "x-unit"
+    ],
+    "SB": [
+        "stilb"
+    ],
+    "\u0393": [
+        "gamma (Mass)",
+        "\u03b3 (magnetic flux density)",
+        "gamma"
+    ],
+    "\u039b": [
+        "lambda"
+    ],
+    "JY": [
+        "jansky"
+    ],
+    "MMHG": [
+        "millimetre of mercury",
+        "millimeter of mercury"
+    ],
+    "HZ": [
+        "hertz"
+    ],
+    "SR": [
+        "steradian"
+    ],
+    "N": [
+        "newton"
+    ],
+    "PA": [
+        "pascal"
+    ],
+    "J": [
+        "joule"
+    ],
+    "W": [
+        "watt"
+    ],
+    "C": [
+        "coulomb",
+        "cup (US)",
+        "speed of light"
+    ],
+    "V": [
+        "volt"
+    ],
+    "WB": [
+        "weber"
+    ],
+    "T": [
+        "tesla",
+        "tonne",
+        "talbot",
+        "metric ton",
+        "ton (long, gross, or displacement)",
+        "ton (nuclear explosive devices)"
+    ],
+    "F": [
+        "farad"
+    ],
+    "\u03a9": [
+        "ohm"
+    ],
+    "H": [
+        "henry",
+        "hour",
+        "hour (sidereal)",
+        "hour (solar)"
+    ],
+    "LM": [
+        "lumen"
+    ],
+    "LX": [
+        "lux"
+    ],
+    "BQ": [
+        "becquerel"
+    ],
+    "GY": [
+        "gray"
+    ],
+    "SV": [
+        "sievert",
+        "sverdrup"
+    ],
+    "KAT": [
+        "katal"
+    ],
+    "BA": [
+        "barye"
+    ],
+    "STATW": [
+        "statwatt"
+    ],
+    "FR": [
+        "statcoulomb (statC) or franklin",
+        "franklin"
+    ],
+    "STATA": [
+        "statampere"
+    ],
+    "STATV": [
+        "statvolt"
+    ],
+    "STATF": [
+        "statfarad"
+    ],
+    "STATD": [
+        "statdaraf"
+    ],
+    "ABW": [
+        "abwatt"
+    ],
+    "ABC": [
+        "abcoulomb"
+    ],
+    "BI": [
+        "abampere (abA) or biot"
+    ],
+    "ABV": [
+        "abvolt"
+    ],
+    "AB\u03a9": [
+        "abohm"
+    ],
+    "ABF": [
+        "abfarad"
+    ],
+    "GB": [
+        "gilbert"
+    ],
+    "SN": [
+        "sth\u00e8ne"
+    ],
+    "PZ": [
+        "pi\u00e8ze"
+    ],
+    "MYM": [
+        "myriametre"
+    ],
+    "DAA": [
+        "decare"
+    ],
+    "L": [
+        "litre",
+        "lambert",
+        "lambert ?"
+    ],
+    "TEX": [
+        "tex"
+    ],
+    "NM": [
+        "number metric",
+        "mile (nautical)"
+    ],
+    "MSW": [
+        "metre sea water"
+    ],
+    "D": [
+        "debye",
+        "day",
+        "day (sidereal)",
+        "day (solar)",
+        "nail penny"
+    ],
+    "NX": [
+        "nox"
+    ],
+    "NT": [
+        "nit"
+    ],
+    "MIN": [
+        "minute",
+        "minute (mean solar)"
+    ],
+    "EV": [
+        "electronvolt",
+        "exposure value"
+    ],
+    "I": [
+        "I"
+    ],
+    "O": [
+        "O"
+    ],
+    "Q": [
+        "Q"
+    ],
+    "X": [
+        "X"
+    ],
+    "Y": [
+        "Y"
+    ],
+    "Z": [
+        "Z"
+    ],
+    "AC": [
+        "acre (US survey) (43 560 ft\u00b2)"
+    ],
+    "AF": [
+        "acre foot (43 560 ft\u00b3)"
+    ],
+    "AWG": [
+        "American wire gauge"
+    ],
+    "BBL": [
+        "barrel (petroleum)",
+        "barrel (petroleum, statistical) (42 gal)",
+        "barrel (US cranberry) (5826.5 in\u00b3) ?",
+        "barrel (US dry) (105 US dry qt)",
+        "barrel (US fed. proof spirits) (40 gal) ?",
+        "barrel (US federal) (31 gal)",
+        "barrel (US liquid) (31.5 gal)"
+    ],
+    "BCF": [
+        "billion cubic feet (gas)"
+    ],
+    "BWG": [
+        "Birmingham wire gauge (Stubs Standard)"
+    ],
+    "BF": [
+        "board foot (nominal)"
+    ],
+    "BMI": [
+        "body mass index (human health)"
+    ],
+    "BTUIT": [
+        "British thermal unit (International table)"
+    ],
+    "BTUTH": [
+        "British thermal unit (thermochemical)"
+    ],
+    "BU": [
+        "bushel (barley) (USDA)",
+        "bushel (oats) (USDA)",
+        "bushel (shelled corn or rye) (USDA)",
+        "bushel (US volume) (2150.42 in\u00b3)",
+        "bushel (wheat, soybeans, potatoes)"
+    ],
+    "CA": [
+        "cable (US Navy) (120 fathoms) ?",
+        "cable (US) (100 fathoms) ?"
+    ],
+    "CALIT": [
+        "calorie (international table)"
+    ],
+    "CALTH": [
+        "calorie (thermochemical)"
+    ],
+    "CP": [
+        "candlepower (candle)",
+        "centipoise"
+    ],
+    "CT": [
+        "carat (metric)"
+    ],
+    "CC": [
+        "cc (slang for cubic centimeter)"
+    ],
+    "CH": [
+        "chain (US survey)"
+    ],
+    "CM": [
+        "circular mil (p[0.5 mil]\u00b2)",
+        "Powerpoint centimeter"
+    ],
+    "CFM": [
+        "cubic foot per minute"
+    ],
+    "CFS": [
+        "cubic foot per second (\"cusec,\" \"second foot\")"
+    ],
+    "CIM": [
+        "cubic inch per minute ?"
+    ],
+    "CY": [
+        "cubic yard (27 ft\u00b3)"
+    ],
+    "CFH": [
+        "cufic foot per hour"
+    ],
+    "B\u00c9": [
+        "degrees Baum\u00e9 (heavy) ?",
+        "degrees Baum\u00e9 (light) ?"
+    ],
+    "DU": [
+        "Dobson unit"
+    ],
+    "DR": [
+        "dram (avoirdupois)"
+    ],
+    "GTT": [
+        "drop"
+    ],
+    "EU": [
+        "Einstein unit"
+    ],
+    "EER": [
+        "energy efficiency ratio ([Btu/h]/W)"
+    ],
+    "FM": [
+        "fathom"
+    ],
+    "FT": [
+        "foot (International)",
+        "foot (US survey)"
+    ],
+    "FTWC": [
+        "foot of water (39.2 \u00b0F)"
+    ],
+    "FPH": [
+        "foot per hour"
+    ],
+    "FPM": [
+        "foot per minute"
+    ],
+    "FPS": [
+        "foot per second"
+    ],
+    "FC": [
+        "footcandle",
+        "footcandle (apparent or effective) ?"
+    ],
+    "FUR": [
+        "furlong"
+    ],
+    "GPD": [
+        "gallon (US) per day"
+    ],
+    "GPH": [
+        "gallon (US) per hour"
+    ],
+    "GPM": [
+        "gallon (US) per minute"
+    ],
+    "GPS": [
+        "gallon (US) per second"
+    ],
+    "GR": [
+        "grain"
+    ],
+    "HP": [
+        "horsepower (mechanical)"
+    ],
+    "CWT": [
+        "hundredweight (short or net)"
+    ],
+    "IN": [
+        "inch"
+    ],
+    "INHG": [
+        "inch of mercury (60 \u00b0F)"
+    ],
+    "IPM": [
+        "inch per minute ?"
+    ],
+    "IPS": [
+        "inch per second"
+    ],
+    "JI": [
+        "jigger (US) (1.5 fl oz)"
+    ],
+    "KPH": [
+        "kilometer per hour"
+    ],
+    "KIP": [
+        "kip (kilopound-force) (1000 lbf)"
+    ],
+    "KSI": [
+        "kip per square inch"
+    ],
+    "LY": [
+        "langley (calth/cm\u00b2)",
+        "light year"
+    ],
+    "LI": [
+        "link (US survey) (1/100 chain) ?"
+    ],
+    "LPF": [
+        "liters per flush"
+    ],
+    "MACH": [
+        "Mach number"
+    ],
+    "MAG": [
+        "magnitude (apparent stellar)"
+    ],
+    "MHCP": [
+        "mean horizontal candlepower ?"
+    ],
+    "MTCE": [
+        "metric ton of coal equivalent (UN std)"
+    ],
+    "MTOE": [
+        "metric ton of oil equivalent (1010 calth)"
+    ],
+    "\u039cIN": [
+        "microinch"
+    ],
+    "MIL": [
+        "mil",
+        "mil (angular) (1/6400 circle)"
+    ],
+    "MI": [
+        "mile (International)",
+        "mile (US survey)"
+    ],
+    "MPH": [
+        "mile per hour"
+    ],
+    "MPHPS": [
+        "mile per hour per second"
+    ],
+    "MPM": [
+        "mile per minute"
+    ],
+    "MPS": [
+        "mile per second"
+    ],
+    "MB": [
+        "millibar"
+    ],
+    "MAF": [
+        "million acre feet",
+        "thousand acre feet"
+    ],
+    "MMAC": [
+        "million acres"
+    ],
+    "MMBBL": [
+        "million barrels (petroleum)"
+    ],
+    "MMBF": [
+        "million board feet"
+    ],
+    "MMBTU": [
+        "million Btu (International table)"
+    ],
+    "MMCY": [
+        "million cubic yards"
+    ],
+    "MGD": [
+        "million gallons (US) per day"
+    ],
+    "MO": [
+        "month (mean calendar)",
+        "month (sidereal)",
+        "month (synodic or lunar)"
+    ],
+    "OZ": [
+        "ounce (avoirdupois)",
+        "ounce per square yard (\"ounce\")"
+    ],
+    "OZT": [
+        "ounce (troy)"
+    ],
+    "OZF": [
+        "ounce-force (\"ounce\")"
+    ],
+    "OZI": [
+        "ounce-force per square inch"
+    ],
+    "PPB": [
+        "parts per billion"
+    ],
+    "PPM": [
+        "parts per million"
+    ],
+    "PPT": [
+        "parts per trillion"
+    ],
+    "PK": [
+        "peck (US dry)"
+    ],
+    "DWT": [
+        "pennyweight (troy)"
+    ],
+    "PCA": [
+        "pica (US computers)",
+        "pica (US printers)"
+    ],
+    "PT": [
+        "pint (US dry)",
+        "pint (US liquid)",
+        "point (compass) (1/32 circle)",
+        "point (jewelers)",
+        "point (US computers)",
+        "point (US printers)"
+    ],
+    "LB": [
+        "pound (avoirdupois) (poundmass)",
+        "pound (basis weight of bond paper) (sub)",
+        "pound (basis weight of book paper)",
+        "pound (basis weight of cover paper)",
+        "pound (basis weight of newsprint)"
+    ],
+    "PDL": [
+        "poundal ?"
+    ],
+    "LBF": [
+        "pound-force (\u201cpound\u201d)"
+    ],
+    "PSF": [
+        "pound-force per square foot"
+    ],
+    "PSI": [
+        "pound-force per square inch"
+    ],
+    "QBTU": [
+        "quad (Q-unit) (quadrillion Btu)"
+    ],
+    "QT": [
+        "quart (US dry)",
+        "quart (US liquid)"
+    ],
+    "RPM": [
+        "revolution per minute"
+    ],
+    "RPS": [
+        "revolution per second"
+    ],
+    "GA": [
+        "shotgun gauge",
+        "vinyl gauge"
+    ],
+    "SL": [
+        "slug (gee-pound)"
+    ],
+    "SQ": [
+        "square (roofing) (100 ft\u00b2)"
+    ],
+    "SCF": [
+        "standard cubic foot (natural gas)"
+    ],
+    "TBSP": [
+        "tablespoon (US)"
+    ],
+    "TSP": [
+        "teaspoon (US)"
+    ],
+    "TH": [
+        "therm (GPA std) (100 000 BtuIT)"
+    ],
+    "MBF": [
+        "thousand board feet"
+    ],
+    "AT": [
+        "ton (assay)"
+    ],
+    "TON": [
+        "ton (refrigeration, US com'l) (200 Btu/min)",
+        "ton (refrigeration, US standard) ?"
+    ],
+    "TN": [
+        "ton (short or net)"
+    ],
+    "TONF": [
+        "ton-force (2000 lbf) (\"ton\")"
+    ],
+    "TWP": [
+        "township"
+    ],
+    "TCF": [
+        "trillion cubic feet (gas)"
+    ],
+    "USS": [
+        "USS standard plate gauge"
+    ],
+    "WK": [
+        "week (calendar)",
+        "week (work)"
+    ],
+    "YD": [
+        "yard"
+    ],
+    "YR": [
+        "year (common calendar)"
+    ]
+}

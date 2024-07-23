@@ -1,0 +1,320 @@
+Derived from https://usma.org/wp-content/uploads/2020/05/traditional-non-si-units.pdf?x30984
+Converted to Word using https://smallpdf.com/pdf-to-word
+
+acre (commercial) (36 000 ft²)	ac	3344.523	m²	area	6
+acre (US survey) (43 560 ft²)	ac	4046.873	m²	area	1
+acre foot (43 560 ft³)	af	1233.5	m³	volume	6
+acre foot per day	af/d	14.276 49	L/s	flow, volumetric	6
+acre foot per year	af/y	39.114	mL/s	flow, volumetric	6
+acre inch (3630 ft³)	ac-in	102.79	m³	volume	6
+agate (1/14 inch)		1.814	mm	length	6
+American wire gauge	AWG	varies	m	length	6
+angstrom	Å	100*	pm	length	4
+API "weight" (petroleum)		equation	Pa·s	viscosity, absolute	6
+astronomical unit	AU, ua	149.5979	Gm	length	3
+atmosphere (standard)	atm	101.325*	kPa	pressure	4
+atomic mass unit (unified)	u	1.660 566	yg	mass	3
+barn	b	100*	fm²	area	4
+barrel (drum, 55 US gallons)		208.4	L	volume	6
+barrel (petroleum)	bbl	135	kg	mass	6
+barrel (petroleum, statistical) (42 gal)	bbl	158.99	L	volume	6
+barrel (US cranberry) (5826.5 in³) ?	bbl	95.5	L	volume	6
+barrel (US dry) (105 US dry qt)	bbl	115.628	L	volume	1
+barrel (US fed. proof spirits) (40 gal) ?	bbl	151.416	L	volume	1
+barrel (US federal) (31 gal)	bbl	117.348	L	volume	1
+barrel (US liquid) (31.5 gal)	bbl	119.24	L	volume	1
+billion cubic feet (gas)	Bcf	28.317	hm³	volume	6
+Birmingham wire gauge (Stubs Standard)	BWG	varies	m	length	6
+board foot (nominal)	bf	2.36	L	volume	1
+body mass index (human health)	BMI	1*	kg/m²	mass per height squared	4
+bottle (wine)		750*	mL	volume	4
+British thermal unit (International table)	BtuIT	1.055 056	kJ	energy	5
+British thermal unit (thermochemical)	Btuth	1.054 350	kJ	energy	5
+Btu per hour (international table) ("BTU")	BTU/H	293	mW	power	5
+bushel (barley) (USDA)	bu	21.8	kg	mass	6
+bushel (oats) (USDA)	bu	14.5	kg	mass	6
+bushel (shelled corn or rye) (USDA)	bu	25.4	kg	mass	6
+bushel (US volume) (2150.42 in³)	bu	35.239	L	volume	1
+bushel (wheat, soybeans, potatoes)	bu	27.2	kg	mass	6
+cable (US Navy) (120 fathoms) ?	ca	219	m	length	5
+cable (US) (100 fathoms) ?	ca	182.9	m	length	5
+caliber (US)	cal	254*	μm	length	6
+calorie (international table)	calIT	4.1868*	J	energy	4
+Calorie (nutritional) (ADA)	Cal	4.186*	kJ	energy	4
+calorie (thermochemical)	calth	4.184*	J	energy	4
+candlepower (candle)	cp	1*	cd	luminous intensity	4
+carat (metric)	ct	200*	mg	mass	3
+cc (slang for cubic centimeter)	cc	1*	mL	volume	4
+centipoise	cp	1*	mPa·s	viscosity, absolute	4
+century		3.156	Gs	time	3
+chain (US survey)	ch	20.116 84	m	length	1
+charge unit	e	160.2189	zC	electric charge	3
+circular inch (p[0.5 in]²) ?	cir in	5.067 075	cm²	area	5
+circular mil (p[0.5 mil]²)	cm	506.7075	μm²	area	5
+cord (128 ft³)	cd	3.63	m³	volume	2
+cord foot (16 ft³)	cd-ft	453	L	volume	1
+cubic foot	cu ft	28.316 847	L	volume	1
+cubic foot per minute	cfm	471.95	mL/s	flow, volumetric	5
+cubic foot per second ("cusec," "second foot")	cfs	28.316 85	L/s	flow, volumetric	5
+cubic inch	cu in	16.387 064*	mL	volume	1
+cubic inch per minute ?	cim	273.1	µL/s	flow, volumetric	5
+cubic mile (147 197 952 000 ft³)	mi³	4.168	km³	volume	5
+cubic yard (27 ft³)	cy	764.6	L	volume	2
+cufic foot per hour	CFH	7.866	mL/s	flow, volumetric	5
+cup (US)	C	240	mL	volume	6
+curie	Ci	37*	GBq	radioactivity	4
+dalton (atomic mass unit)	Da	1.660 566	yg	mass	3
+day (sidereal)	d	86.164 09	ks	time	3
+day (solar)	d	86.4	ks	time	3
+decade		315.6	Ms	time	3
+decibel (sound level)	dB	equation	W/m²	intensity, sound	4
+decibel (sound pressure level)	dB	equation	Pa	pressure	4
+degree (arc degree)	°	17.453 29	mrad	angle, plane	3
+degrees Ammoniameter (ammonia) ?	°Am	equation	kg/m³	density	5
+degrees API (API gravity) (petroleum)	G	equation	kg/m³	density	6
+degrees Bark (tanning liquors) ?	°Bk	equation	kg/m³	density	3
+degrees Baumé (heavy) ?	Bé	equation	kg/m³	density	3
+degrees Baumé (light) ?	Bé	equation	kg/m³	density	3
+degrees Beck ?	°Beck	equation	kg/m³	density	3
+degrees Brix (sugar solutions) ?	°Brix	equation	kg/m³	density	3
+degrees Fahrenheit	°F	equation	K	temperature	5
+degrees oleometer (vegetable oils) ?		equation	kg/m³	density	5
+degrees Rankine	°R	equation	K	temperature	5
+degrees Soxhlet (milk) ?	°Sx	equation	kg/m³	density	3
+degrees Twaddel ?	Tw°	equation	kg/m³	density	3
+denier		0.111	mg/m	linear density	4
+Dobson unit	DU	21.4	mg/m²	areal density	6
+dram (avoirdupois)	dr	1.771 845	g	mass	1
+drill numbers		varies	m	length	6
+drop	gtt	50*	μL	volume	6
+dyne	dyn	10*	μN	force	4
+Einstein unit	EU	equation	J	energy	4
+electron rest mass	me	9.1096 × 10–31	kg	mass	3
+electronvolt	eV	160.2189	zJ	energy	3
+energy efficiency ratio ([Btu/h]/W)	EER	equation	W/W	power ratio	6
+erg	erg	100*	nJ	energy	4
+exposure value	EV	equation	lx·s	illuminance	5
+faraday (carbon-12) ?		96,487.00	C	electric charge	3
+fathom	fm	1.8288	m	length	1
+feet of air ?		3.656	Pa	pressure	5
+fermi ?		1*	fm	length	4
+flask (mercury)		34.5	kg	mass	5
+flat (strawberries) (24 US dry pints)		13.2	L	volume	6
+fluid ounce (US) ("shot")	fl oz	29.574	mL	volume	6
+foot (International)	ft	30.48*	cm	length	1
+foot (US survey)	ft	30.480 061	cm	length	1
+foot of water (39.2 °F)	ftWC	2.988 98	Pa	pressure	5
+foot per hour	fph	84.66	μm/s	speed	5
+foot per minute	fpm	5.08*	mm/s	speed	5
+foot per second	fps	0.3048*	m/s	speed	5
+foot pound (pound-force foot)	ft·lb	1.355 818	J	energy	5
+foot pound (pound-force foot)	ft·lb	1.356	N·m	torque	5
+foot ton (ton-force foot)	ft·tonf	2.711 636	kJ	energy	6
+footcandle	fc	10.764	lx	illuminance	4
+footcandle (apparent or effective) ?	fc	10.76	cd/m²	luminance	4
+foot-lambert ?	ft-L	3.426	cd/m²	luminance	4
+furlong	fur	201.168	m	length	1
+gal	Gal	10*	mm/s²	acceleration	4
+gallon (US liquid)	gal	3.785	L	volume	1
+gallon (US) per day	gpd	43.813	µL/s	flow, volumetric	6
+gallon (US) per day per square foot	gpd/sf	0.144	mm²/s	viscosity, kinematic	6
+gallon (US) per hour	gph	1.0515	mL/s	flow, volumetric	6
+gallon (US) per minute	gpm	63.09	mL/s	flow, volumetric	6
+gallon (US) per second	gps	3.785	L/s	flow, volumetric	6
+gauss	Gs	100*	μT	magnetic flux density	4
+grain	gr	64.798 91*	mg	mass	1
+hand		10.16*	cm	length	1
+horsepower (mechanical)	hp	745.7	W	power	5
+horsepower hour	hp·h	2.6856	MJ	energy	5
+horsepower year	hp·yr	23.526	GJ	energy	5
+hour (sidereal)	h	3.590 170	ks	time	3
+hour (solar)	h	3.6*	ks	time	3
+hour of right ascension (astronomy)	h RA	261.7994	mrad	angle, plane	3
+hundredweight (short or net)	cwt	45.4	kg	mass	6
+inch	in	2.54*	cm	length	1
+inch of mercury (60 °F)	inHg	3.376 85	kPa	pressure	5
+inch of water (60 °F)	²WC	248.84	Pa	pressure	5
+inch per minute ?	ipm	423.3	μm/s	speed	5
+inch per second	ips	25.4*	mm/s	speed	5
+inch pound (pound-force inch)	lbf·in	112.9848	mJ	energy	5
+jigger (US) (1.5 fl oz)	ji	44	mL	volume	6
+keg (US large beer) (1/2 US fed bbl)		58.7	L	volume	1
+keg (US small beer) (1/4 US fed bbl)		29.3	L	volume	1
+kilogram-force (“kilogram”)	kgf	9.806 65*	N	force	4
+kilometer per hour	kph	0.2777	m/s	speed	4
+kip (kilopound-force) (1000 lbf)	kip	4.448 222	kN	force	6
+kip foot (1000 lbf·ft)	kip·ft	1.356	kJ	energy	6
+kip per square inch	ksi	6.894 757	MPa	pressure	6
+klik or K (slang)		1*	km	length	4
+knot	kt	0.514	m/s	speed	3
+lambert ?	L	1*	lm/cm²	luminance	4
+langley (calth/cm²)	ly	41.84*	kJ/m²	irradiation	6
+light minute		18	Gm	length	3
+light second		300	Mm	length	3
+light year	ly	9.46	Pm	length	3
+link (US survey) (1/100 chain) ?	li	20.116 84	cm	length	1
+liter atmosphere (45° latitude)	L·atm	101.3	J	energy	4
+liter per minute	L/min	16.666	mL/s	flow, volumetric	4
+liters per flush	Lpf	1*	L	volume	6
+lumen hour	lm·h	3600*	lm·s	luminous energy	4
+lumerg (talbot) ?		1*	lm·s	luminous energy	4
+Mach number	mach	equation	m/s	speed	3
+magnitude (apparent stellar)	mag	equation	W/m²	intensity	3
+magnum (champagne)		1.5*	L	volume	4
+maxwell	Mx	10*	nWb	magnetic flux	4
+mean horizontal candlepower ?	MHCP	lm	luminous flux	4
+mean spherical candlepower ?	MSCP	π/4*	lm	luminous flux	4
+metric ton	t	1*	Mg	mass	4
+metric ton of coal equivalent (UN std)	mtce	29.3076*	GJ	energy	4
+metric ton of oil equivalent (1010 calth)	mtoe	41.84*	GJ	energy	4
+mho		1*	S	electric conductance	3
+microinch	μin	25.4*	nm	length	6
+micron		1*	μm	length	4
+mig (medical slang for milligram)		1*	mg	mass	4
+mil	mil	25.4*	μm	length	6
+mil (angular) (1/6400 circle)	mil	0.981 748	mrad	angle, plane	6
+mile (International)	mi	1.609 344*	km	length	1
+mile (nautical)	NM	1.852*	km	length	3
+mile (US survey)	mi	1.609 347	km	length	1
+mile per hour	mph	0.447	m/s	speed	5
+mile per hour per second	mphps	0.447 04*	m/s²	acceleration	5
+mile per minute	mpm	26.82	m/s	speed	5
+mile per second	mps	1.609	km/s	speed	5
+mill (slang for milliliter)		1*	mL	volume	4
+millennium		31.56	Gs	time	3
+millibar	mb	100*	Pa	pressure	4
+millimeter of mercury	mmHg	133.322	Pa	pressure	4
+millimeters of water	mmH2O	9.8064	Pa	pressure	4
+million acre feet	maf	1233	km³	volume	6
+million acres	MMAc	4047	km²	area	6
+million barrels (petroleum)	MMbbl	158,987	m³	volume	6
+million board feet	MMbf	2360	m³	volume	6
+million Btu (International table)	MMBtu	1.056	GJ	energy	5
+million cubic yards	MMcy	0.765	hm³	volume	6
+million gallons (US) per day	mgd	43.812 64	L/s	flow, volumetric	6
+miners inch (AZ, CA, MT, OR)		707.9	mL/s	flow, volumetric	5
+miners inch (CO)		737.4	mL/s	flow, volumetric	5
+miners inch (ID, KS, NE, NM, NV, SD, UT)		566.3	mL/s	flow, volumetric	5
+minim (US) ?		61.61	μL	volume	1
+minute (mean solar)	min	60	s	time	3
+minute (sidereal)	m	59.836 17	s	time	3
+minute of arc (arc minute)	¢	290.8882	μrad	angle, plane	3
+minute of right ascension (astronomy)	m RA	4.363 323	mrad	angle, plane	3
+month (mean calendar)	mo	2.63	Ms	time	3
+month (sidereal)	mo	2.360 591	Ms	time	3
+month (synodic or lunar)	mo	2.551 443	Ms	time	3
+nail penny	d	varies	m	length	2
+neper	Np	equation	ratio	3
+nit ?		1*	cd/m²	luminance	4
+noy ?		equation	W/m²	intensity, sound	6
+oersted ?	Oe	79.577 47	A/m	magnetic field strength	4
+ohm circular mil per foot		1.662 426	nW·m	electric resistivity	5
+ounce (avoirdupois)	oz	28.349 523 125*	g	mass	1
+ounce (troy)	ozt	31.103 476 8*	g	mass	1
+ounce inch (ounce-force inch) ?	ozf·in	7.061 553	mJ	energy	5
+ounce per square yard ("ounce")	oz	34	g/m²	areal density	5
+ounce-force ("ounce")	ozf	278.0139	mN	force	5
+ounce-force per square inch	ozi	430.922	Pa	pressure	5
+pace (geometrical) (60 inches)		1.52	m	length	1
+pace (military) (30 inches)		76	cm	length	1
+parsec (astronomy)	pc	30.857	Pm	length	3
+parts per billion	ppb	1	µg/L	concentration	6
+parts per million	ppm	1	mg/L	concentration	6
+parts per trillion	ppt	1	ng/L	concentration	6
+peck (US dry)	pk	8.81	L	volume	1
+pennyweight (troy)	dwt	1.555 174	g	mass	2
+percent grade	%	equation	m/m	angle, plane	3
+phon		equation	W/m²	intensity, sound	4
+phot ?	ph	10*	klx	illuminance	4
+pica (US computers)	pca	4.233	mm	length	6
+pica (US printers)	pca	4.217 518	mm	length	6
+pint (US dry)	pt	550.6	mL	volume	1
+pint (US liquid)	pt	473.2	mL	volume	1
+pitch (roofs)		equation	m/m	angle, plane	5
+point (compass) (1/32 circle)	pt	196.3495	mrad	angle, plane	3
+point (jewelers)	pt	2*	mg	mass	3
+point (US computers)	pt	352.8	μm	length	6
+point (US printers)	pt	351.4598*	μm	length	6
+pound (avoirdupois) (poundmass)	lb	453.592 37*	g	mass	1
+pound (basis weight of bond paper) (sub)	lb	3.76	g/m²	areal density	5
+pound (basis weight of book paper)	lb	1.48	g/m²	areal density	5
+pound (basis weight of cover paper)	lb	2.70	g/m²	areal density	5
+pound (basis weight of newsprint)	lb	1.63	g/m²	areal density	5
+poundal ?	pdl	138.255	mN	force	5
+pound-force (“pound”)	lbf	4.448 222	N	force	5
+pound-force per square foot	psf	47.88	Pa	pressure	5
+pound-force per square inch	psi	6.894 757	kPa	pressure	5
+Powerpoint centimeter	cm	1.0583	cm	length	6
+quad (Q-unit) (quadrillion Btu)	Qbtu	1.055	EJ	energy	6
+quart (US dry)	qt	1.101	L	volume	1
+quart (US liquid)	qt	946.4	mL	volume	1
+rad	rd	10*	mGy	radiation absorbed dose	4
+radar nautical mile ?		12.261	μs	time	6
+redwood second ?		?	m²/s	viscosity, kinematic	6
+rem (Roentgen equivalent man)	R	10*	µSv	radiation dose equivalent	4
+revolution (turn)	r	6.283 185	rad	angle, plane	3
+revolution per minute	rpm	104.72	mrad/s	angular speed	3
+revolution per second	rps	6.2832	rad/s	angular speed	3
+reyn (lbf·/in²) ?		6.894 76	kPa·s	viscosity, absolute	5
+Richter magnitude	M	equation	J	energy	6
+rod (US survey) (16.5 survey feet)	rd	5.029 210	m	length	1
+roentgen	R	258	μC/kg	radiation exposure	4
+R-value	R	0.1761	K·m²/W	thermal insulance	6
+sack (bag) (1/6 US dry bbl)		19.3	L	volume	6
+saybolt second ?		?	m²/s	viscosity, kinematic	6
+screw numbers	#	varies	m	length	6
+second (sidereal)	s	0.997 269 6	s	time	3
+second of arc (arc second)	²	4.848 137	μrad	angle, plane	3
+second of right ascension (astronomy)	s RA	72.722 05	μrad	angle, plane	3
+shoe size (US childrens)		equation	m	length	6
+shoe size (US mens)		equation	m	length	6
+shoe size (US womens)		equation	m	length	6
+shotgun gauge	ga	varies	m	length	5
+slug (gee-pound)	sl	14.593 90	kg	mass	5
+solar luminosities		383	YW	power	3
+sone		equation	W/m²	intensity (of sound)	6
+specific gravity (relative density)	sp gr	1	Mg/m³	density	3
+speed of light	c	299.792 458*	Mm/s	speed	3
+square (roofing) (100 ft²)	sq	9.29	m²	area	5
+square degree	deg²	304.617 42	μsr	angle, solid	3
+square foot	sq ft	929.0304*	cm²	area	1
+square inch	sq in	645.16*	mm²	area	1
+square mil	sq mil	645.16*	μm²	area	5
+square mile (International)	sq mi	2.589 998	km²	area	1
+square yard	sq yd	0.836 127 4	m²	area	1
+standard cubic foot (natural gas)	scf	20.2	g	mass	5
+standard cubic foot (natural gas)	scf	28.328	L	volume	6
+standard gravity, free fall, or "gee"	g	9.806 65*	m/s²	acceleration	3
+stokes (cm²/s)	st	0.0001	m²/s	viscosity, kinematic	4
+tablespoon (US)	Tbsp	15	mL	volume	1
+teaspoon (US)	tsp	5	mL	volume	1
+tex ?		1*	mg/m	linear density	4
+therm (GPA std) (100 000 BtuIT)	th	105.506	MJ	energy	5
+thousand acre feet	Maf	1.233	hm³	volume	6
+thousand board feet	Mbf	2.36	m³	volume	6
+ton (assay)	AT	29.167	g	mass	6
+ton (freight) (40 ft³)		1.1327	m³	volume	2
+ton (long, gross, or displacement)	T	1016	kg	mass	1
+ton (nuclear explosive devices)	t	4.184*	GJ	energy	6
+ton (refrigeration, US com'l) (200 Btu/min)	ton	3.517	kW	power	6
+ton (refrigeration, US standard) ?	ton	303.9	MJ	energy	6
+ton (register) (100 ft³) (ships)	ton, CCF	2.832	m³	volume	5
+ton (short or net)	tn	907.185	kg	mass	6
+ton mile (ton-force mile)	tonf·mi	14.32	MJ	energy	6
+ton-force (2000 lbf) ("ton")	tonf	8.896	kN	force	6
+township	twp	93.2	km²	area	6
+township or range	T or R	9.66	km	length	6
+trillion cubic feet (gas)	tcf	28.317	km³	volume	6
+unit pole		125.6637	nWb	magnetic flux	4
+USS standard plate gauge	USS	varies	m	length	6
+vinyl gauge	ga	varies	m	length	6
+Washburn & Moen gauge	W&M	varies	m	length	6
+week (calendar)	wk	604.8	ks	time	3
+week (work)	wk	144	ks	time	3
+yard	yd	91.44*	cm	length	1
+year (anomalistic)		31.558 43	Ms	time	3
+year (common calendar)	yr	31.536 001	Ms	time	3
+year (leap calendar)		31.622	Ms	time	3
+year (lunar)		30.617 309	Ms	time	3
+year (sidereal)		31.558 15	Ms	time	3
+year (tropical or seasonal)	a	31.556 926 06	Ms	time	3

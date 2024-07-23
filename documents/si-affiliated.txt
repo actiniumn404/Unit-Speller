@@ -1,0 +1,54 @@
+Derived From: https://en.wikipedia.org/wiki/Non-SI_units_mentioned_in_the_SI
+Accessed July 21st 2024
+
+astronomical unit	au	accepted	omitted	accepted	accepted	accepted
+parsec	pc	accepted	omitted	omitted	omitted	omitted
+neper	Np	omitted	omitted	accepted	listed	accepted
+bel	B	omitted	omitted	accepted	listed	accepted
+decibel	dB	omitted	omitted	omitted	listed	accepted
+unified atomic mass unit	u	accepted	accepted	accepted	accepted	footnote
+dalton	Da	omitted	omitted	footnote	accepted	accepted
+natural unit (n.u.) of speed	c0	omitted	omitted	omitted	listed	omitted
+n.u. of action	ħ	omitted	omitted	omitted	listed	omitted
+n.u. of mass	me	omitted	omitted	omitted	listed	omitted
+n.u. of time	ħ⁄(mec02)	omitted	omitted	omitted	listed	omitted
+atomic unit (a.u.) of charge	e	omitted	omitted	omitted	listed	omitted
+a.u. of mass	me	omitted	omitted	omitted	listed	omitted
+a.u. of action	ħ	omitted	omitted	omitted	listed	omitted
+a.u. of length	a0	omitted	omitted	omitted	listed	omitted
+a.u. of energy	Eh	omitted	omitted	omitted	listed	omitted
+a.u. of time	ħ⁄Eh	omitted	omitted	omitted	listed	omitted
+nautical mile	M	temporary	temporary	temporary	listed	omitted
+knot	kn	temporary	temporary	temporary	listed	omitted
+ångström	Å	temporary	temporary	temporary	listed	omitted
+are	a	temporary	temporary	temporary	omitted	omitted
+hectare	ha	temporary	temporary	temporary	accepted	accepted
+barn	b	temporary	temporary	temporary	listed	omitted
+bar	bar	temporary	temporary	temporary	listed	omitted
+standard atmosphere	atm	temporary	listed	listed	omitted	omitted
+gal	Gal	temporary	temporary	listed	listed	footnote
+curie	Ci	temporary	temporary	listed	omitted	omitted
+roentgen	R	temporary	temporary	listed	omitted	omitted
+rad	rad	temporary	temporary	listed	omitted	omitted
+rem	rem	omitted	temporary	listed	omitted	omitted
+erg	erg	listed	listed	listed	listed	omitted
+dyne	dyn	listed	listed	listed	listed	omitted
+poise	P	listed	listed	listed	listed	omitted
+stokes	st	listed	listed	listed	listed	omitted
+maxwell	Mx	listed	listed	listed	listed	omitted
+gauss	G	listed	listed	listed	listed	omitted
+ørsted	Oe	listed	listed	listed	listed	omitted
+phot	ph	listed	listed	listed	listed	omitted
+fermi		listed	listed	listed	omitted	omitted
+metric carat		listed	listed	listed	omitted	omitted
+torr	Torr	listed	listed	listed	omitted	omitted
+kilogram-force	kgf	listed	listed	omitted	omitted	omitted
+calorie	cal	listed	listed	listed	omitted	omitted
+micron	μ	listed	listed	listed	omitted	omitted
+x-unit	xu	listed	listed	omitted	omitted	omitted
+stilb	sb	listed	listed	omitted	omitted	omitted
+gamma (Mass)	γ	listed	listed	listed	omitted	omitted
+γ (magnetic flux density)	γ	listed	listed	omitted	omitted	omitted
+lambda	λ	listed	listed	omitted	omitted	omitted
+jansky	Jy	omitted	omitted	listed	omitted	omitted
+millimetre of mercury	mmHg	omitted	omitted	omitted	listed	omitted

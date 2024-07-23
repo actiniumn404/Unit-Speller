@@ -1,0 +1,217 @@
+From: https://en.wikipedia.org/wiki/List_of_metric_units
+Accessed July 21st 2024
+
+Metric units are units based on the metre, gram or second and decimal (power of ten) multiples or sub-multiples of these. According to Schadow and McDonald,[1] metric units, in general, are those units "defined 'in the spirit' of the metric system, that emerged in late 18th century France and was rapidly adopted by scientists and engineers. Metric units are in general based on reproducible natural phenomena and are usually not part of a system of comparable units with different magnitudes, especially not if the ratios of these units are not powers of 10. Instead, metric units use multiplier prefixes that magnifies or diminishes the value of the unit by powers of ten." The most widely used examples are the units of the International System of Units (SI). By extension they include units of electromagnetism from the CGS and SI units systems, and other units for which use of SI prefixes has become the norm. Other unit systems using metric units include:
+
+International System of Electrical and Magnetic Units
+Metre–tonne–second (MTS) system of units
+MKS system of units (metre, kilogram, second)
+SI units
+Main article: International System of Units
+The first group of metric units are those that are at present defined as units within the International System of Units (SI). In its most restrictive interpretation, this is what may be meant when the term metric unit is used.
+
+The unit one (1) is the unit of a quantity of dimension one. It is the neutral element of any system of units.[2]
+
+In addition to the unit one, the SI defines 7 base units and associated symbols:
+
+The second (s) is the unit of time.
+The metre (m) is the unit of length.
+The kilogram (kg) is the unit of mass.
+The ampere (A) is the unit of electric current.
+The kelvin (K) is the unit of thermodynamic temperature.
+The mole (mol) is the unit of amount of substance.
+The candela (cd) is the unit of luminous intensity.
+The SI also defines 22 derived units and associated symbols:
+
+The hertz (Hz) is equal to one reciprocal second (1 s−1).
+The radian (rad) is equal to one (1).
+The steradian (sr) is equal to one (1).
+The newton (N) is equal to one kilogram-metre per second squared (1 kg⋅m⋅s−2).
+The pascal (Pa) is equal to one newton per square metre (1 N⋅m−2).
+The joule (J) is equal to one newton-metre (1 N⋅m).
+The watt (W) is equal to one joule per second (1 J⋅s−1).
+The coulomb (C) is equal to one ampere second (1 A⋅s).
+The volt (V) is equal to one joule per coulomb (1 J⋅C−1).
+The weber (Wb) is equal to one volt-second (1 V⋅s).
+The tesla (T) is equal to one weber per square metre (1 Wb⋅m−2).
+The farad (F) is equal to one coulomb per volt (1 C⋅V−1).
+The ohm (Ω) is equal to one volt per ampere (1 V⋅A−1).
+The siemens (S) is equal to one ampere per volt (1 A⋅V−1).
+The henry (H) is equal to one weber per ampere (1 Wb⋅A−1).
+The degree Celsius (°C) is equal to one kelvin (1 K).
+The lumen (lm) is equal to one candela-steradian (1 cd⋅sr).
+The lux (lx) is equal to one lumen per square metre (1 lm⋅m−2).
+The becquerel (Bq) is equal to one reciprocal second (1 s−1).
+The gray (Gy) is equal to one joule per kilogram (1 J⋅kg−1).
+The sievert (Sv) is equal to one joule per kilogram (1 J⋅kg−1).
+The katal (kat) is equal to one mole per second (1 mol⋅s−1).
+Furthermore, there are twenty-four metric prefixes that can be combined with any of these units except one (1) and kilogram (kg) to form further units of the SI. For mass, the same prefixes are applied to the gram (g) instead of the kilogram.
+
+Non-SI metric units
+There are several metric systems, most of which have become disused or are still used in only niche disciplines. Systems are listed with named units that are associated with them.
+
+CGS
+Main article: centimetre–gram–second system of units
+The centimetre–gram–second system of units (CGS) is based on three base units: centimetre, gram and second. Its subsystems (CGS-ESU, CGS-EMU and CGS-Gaussian) have different defining equations for their systems of quantities for defining electromagnetic quantities and hence the associated units, with CGS-Gaussian units being selected from each of the other two subsystems.
+
+The CGS-to-SI correspondence of electromagnetic units as given was exact prior to the 2019 redefinition of the SI base units, until which the magnetic constant μ0 was defined as 4π×10−7 N⋅A−2. As from the redefinition, μ0 has an inexactly known value when expressed in SI units, with the exactness of the electromagnetic unit correspondence given here being affected accordingly.
+
+CGS nonelectromagnetic units
+The kayser (K) is a unit of wavenumber equal to 1 cm−1 (100 m−1).
+The gal (Gal) is a unit of acceleration equal to 1 cm/s2.[3]
+The dyne (dyn) is a unit of force equal to 1 g⋅cm⋅s−2 (10 μN).[3]
+The barye (Ba) is a unit of pressure equal to 1 dyn⋅cm−2 (100 mPa).
+The erg (erg) is a unit of energy equal to 1 dyn⋅cm (100 nJ).[3]
+The poise (P) is a unit of dynamic viscosity equal to 1 Ba⋅s (100 mPa⋅s).[3]
+The stokes (St) is a unit of kinematic viscosity equal to 1 cm2⋅s−1 (100 mm2⋅s−1).[3]
+The stilb (sb) is a unit of luminance equal to 1 cd⋅cm−2 (10 kcd⋅m−2).[4]
+The phot (ph) is a unit of illuminance equal to 1 lm⋅cm−2 (10 klx).[3]
+The rayl is a unit of specific acoustic impedance, equal to 1 dyn⋅s⋅cm−3 (10 Pa s/m).[5]
+CGS-ESU electromagnetic units
+The statwatt (statW) is a unit of power equal to 1 statV⋅statA, which is equal to 100 nW.[6]
+The statcoulomb (statC) or franklin (Fr) is a unit of electric charge equal to 1 dyn1/2⋅cm, corresponding to ~333.564 pC.
+The statampere (statA) is a unit of electric current equal to 1 statC/s, corresponding to ~333.564 pA.
+The statvolt (statV) is a unit of electric potential difference equal to 1 erg/statC, corresponding to 299.792458 V.
+The statohm is a unit of electric resistance equal to 1 statV/statA, corresponding to ~898.7551787 GΩ.
+The statsiemens or statmho is a unit of electric conductance equal to 1 statA/statV, corresponding to ~1.112646 pS.[6]
+The stathenry is a unit of electric inductance equal to 1 statV·s/statA, corresponding to ~898.7551787 GH.[7][6][a]
+The statfarad (statF) is a unit of electric capacitance equal to 1 statC/statV, corresponding to ~1.112646 pF.[6]
+The statdaraf (statD) is a unit of electric elastance equal to 1/statF.[6]
+The statweber is a unit of magnetic flux, corresponding to 299.792458 Wb.[7][6]
+The stattesla is a unit of magnetic flux density equal to 1 statWb⋅cm−2, corresponding to 2.99792458 MT.[7]
+CGS-EMU electromagnetic units
+The abwatt (abW) is a unit of power equal to 1 abV⋅abA, which is equal to 100 nW.[6]
+The abcoulomb (abC) is a unit of electric charge equal to 1 abA⋅s, corresponding to 10 C.
+The abampere (abA) or biot (Bi) is a unit of electric current, corresponding to 10 A.
+The abvolt (abV) is a unit of electric potential difference, corresponding to 10 nV.
+The abohm (abΩ) is a unit of electric resistance, corresponding to 1 nΩ.
+The abmho is a unit of electric conductance, corresponding to 1 GS.
+The abhenry is a unit of electric inductance, corresponding to 1 nH.
+The abfarad (abF) is a unit of electric capacitance, corresponding to 1 GF.
+The gilbert (Gb) is a unit of magnetomotive force equal to one biot-turn, corresponding to (10/4π) A = 0.7957747... A.
+The oersted (Oe) is a unit of magnetic field strength equal to 1 dyn1/2⋅cm−1, corresponding to (1000/4π) A/m = 79.57747... A/m.
+The maxwell (Mx) is a unit of magnetic flux, corresponding to 10 nWb.[4]
+The gauss (G) is a unit of magnetic flux density, corresponding to 100 μT.[4]
+CGS-Gaussian electromagnetic units
+The franklin (Fr) is a unit of electric charge equal to 1 statC, corresponding to ~333.564 pC.
+The oersted (Oe) is a unit of magnetic field strength equal to 1 dyn1/2⋅cm−1, corresponding to ~79.57747 A/m.
+The maxwell (Mx) is a unit of magnetic flux, corresponding to 10 nWb.[4]
+The gauss (G) is a unit of magnetic flux density, corresponding to 100 μT.[4]
+MTS
+Main article: metre–tonne–second system of units
+The tonne (t) is a unit of mass equal to 1 Mg.
+The sthène (sn) is a unit of force equal to 1 kN.
+The pièze (pz) is a unit of pressure equal to 1 kPa.
+MKSA
+Main article: MKS system of units
+The cycle per second (cps or cyc/s) is a unit of frequency equal to 1 Hz.
+The MKS rayl is a unit of acoustic impedance equal to 1 Pa⋅s/m.
+The mho (℧) is a unit of electric conductance equal to 1 S.
+MKpS units
+Main article: Gravitational metric system
+The kilogram-force (kgf), also kilopond (kp), is a unit of force (9.80665 N).[8]
+The hyl is a unit of mass equal to 1 kgf⋅m−1⋅s2 (9.80665 kg).
+The poncelet (p) is a unit of power equal to 1 kgf⋅m⋅s−1 (980.665 W).
+The technical atmosphere (at) is a (non-coherent) unit of pressure equal to 1 kgf⋅cm−2 (98066.5 Pa).
+Other metric units
+Length
+The fermi is a unit of distance used in nuclear physics equal to 1 fm.[9]
+The angstrom (symbol Å) is a unit of distance used in chemistry and atomic physics equal to 100 pm.
+The micron (μ) is a unit of distance equal to one micrometre (1 μm).
+The basic module (M) is a unit of distance equal to one hundred millimetres (100 mm).
+The myriametre (mym) is a unit of distance equal to ten kilometres (10 km).
+The hebdometre is a unit of distance equal to ten megametres (10 Mm).
+The spat (S) is a unit of distance equal to one terametre (1 Tm).
+Area
+The shed is a unit of area used in nuclear physics equal to 10−24 barns (100 rm2 = 10−52 m2).
+The outhouse is a unit of area used in nuclear physics equal to 10−6 barns (100 am2 = 10−34 m2).
+The barn (b) is a unit of area used in nuclear physics equal to one hundred femtometres squared (100 fm2 = 10−28 m2).
+The are (a) is a unit of area equal to 100 m2.
+The decare (daa) is a unit of area equal to 1000 m2.
+The hectare (ha) is a unit of area equal to 10000 m2 (0.01 km2).
+Volume
+The lambda (λ) is a unit of volume equal to one cubic millimetre (1 mm3).
+The litre (symbol l or L) is a unit of volume equal to one cubic decimetre (1 dm3).
+The stere (st) is a unit of volume equal to 1 m3.
+Reciprocal length
+The dioptre is a unit of optical power equal to one reciprocal metre (1 m−1).
+Time
+The svedberg (S or Sv) is a unit of time used in chemistry equal to one hundred femtoseconds (100 fs).
+The shake is a unit of time used in nuclear physics equal to ten nanoseconds (10 ns).
+The sigma is a unit of time equal to one microsecond (1 μs).
+The jiffy is sometimes used to mean a unit of time of 10 ms.[dubious – discuss]
+Reciprocal time
+The fresnel is a unit of frequency equal to 1 THz.
+Reciprocal time squared
+The eotvos (E) is a unit of gravitational gradient equal to 10−9 Gal/cm (10−9 s−2).
+Speed
+The benz is a unit of speed equal to one metre per second (1 m/s).
+Acceleration
+The leo is a unit of acceleration equal to 10 m⋅s−2.[10]
+Flow rate
+The sverdrup (Sv) is a unit of volume flow rate equal to one million metres cubed per second (106 m3/s).[11]
+Mass
+The undecimogramme is a unit of mass equal to ten picograms (10 pg).
+The gamma (γ) is a unit of mass equal to one microgram (1 μg).
+The gravet is a unit of mass equal to one gram (1 g).
+The grave is a unit of mass equal to one kilogram (1 kg).
+The bar is a unit of mass equal to one megagram (1 Mg).
+Linear mass density
+The tex (tex) is a unit of linear mass density equal to one gram per kilometre (1 g/km).[12]
+The number metric (Nm) is equal to 1000 metres per kilogram (1 km/kg).
+Pressure
+The metre sea water (msw) is a unit of pressure defined as 0.1 bar, which is equal to 10 kPa.
+The bar (bar) is a unit of pressure equal to 100 kPa.
+Energy
+The foe is a unit of energy equal to 1051 erg (1044 J).
+Viscosity
+The poiseuille is a unit of dynamic viscosity equal to one pascal-second (1 Pa⋅s).[13]
+Electrical
+The Siemens mercury unit is a unit of electric resistance, corresponding to ~0.953 Ω.
+The gamma (γ) a unit of magnetic flux density, corresponding to 1 nT.[14]
+The debye (D) is a unit of electric dipole moment equal to 10−18 statC⋅cm, corresponding to ~3.33564 qC⋅m.
+The buckingham (B) is a unit of electric quadrupole moment equal to 10−26 statC⋅cm2.
+Electromagnetic radiation
+The jansky (Jy) is a unit of spectral irradiance equal to 10−26 W⋅m−2⋅Hz−1 (10 rW⋅m−2⋅Hz−1).
+The solar flux unit is a unit of spectral irradiance equal to 10−22 W⋅m−2⋅Hz−1 (100 yW⋅m−2⋅Hz−1).
+The nox (nx) is a unit of illuminance equal to 1 millilux (1 mlx).
+The nit (nt) is a unit of luminance equal to one candela per metre squared (1 cd⋅m−2).
+The lambert (L) is a unit of luminance equal to 104/π cd⋅m−2.
+The lumerg is a unit of luminous energy equal to 10−7 lumen-seconds (100 nlm s).
+The talbot (T) is a unit of luminous energy equal to one lumen-second (1 lm⋅s).
+The einstein (E) has two conflicting definitions. The original is a unit of energy, equal to the energy in one mole (1 mol) of photons. The second is a unit of amount of photons, equal to one mole (1 mol) of photons.
+The rayleigh (R) is a unit of photon flux rate density equal to 1010 m−2⋅s−1 (104 mm−2⋅s−1).
+Radioactivity
+The rad (rad) is a unit of absorbed dose equal to 10 mGy.
+The roentgen equivalent man (rem) is a unit of equivalent dose equal to 10 mSv.
+The rutherford (Rd) is a unit of radioactivity defined as one million decays per second (1 MBq).
+Concentration
+The molar (M) is equal to one mole per litre (1 mol/dm3).
+Acoustics
+The acoustic ohm is a unit of acoustic impedance equal to 1 Pa·s/m3.
+See also
+Electrostatic units
+Gaussian units
+Gravitational metric system
+History of the metric system
+Metric system
+Outline of the metric system
+RKM code
+Unified Code for Units of Measure
+Notes
+ Note that the source has a sign error in the decimal exponent.
+References
+ Gunther Schadow, Clement J. McDonald, The Unified Code for Units of Measure, Version 1.4b, June 6, 2002
+ The International System of Units (PDF) (9th ed.), International Bureau of Weights and Measures, Dec 2022, p. 136, ISBN 978-92-822-2272-0
+ Table 9, BIPM brochure, 8th Ed
+ The International System of Units (PDF) (8th ed.). Archived from the original (PDF) on 2017-08-14. Retrieved 2020-02-13.
+ CL Morfey, Dictionary of Acoustics
+ Gyllenbok, Jan (2018), Encyclopaedia of Historical Metrology, Weights, and Measures: Volume 1, Birkhäuser, ISBN 9783319575988
+ System of Electric Units – Francis B. Sildbee (1962), p. 172
+ Donald Fenna (2002), A Dictionary of Weights, Measures, and Units, Oxford University Press
+ Nuclear Size and Shape
+ Donald Fenna (2002), A Dictionary of Weights, Measures, and Units, Oxford University Press
+ Aldersey-Williams, 2016
+ François Cardarelli (2004). Encyclopaedia of Scientific Units, Weights and Measures. Springer-Verlag London Ltd. ISBN 978-1852336820
+ François Cardarelli (2004). Encyclopaedia of Scientific Units, Weights and Measures. Springer-Verlag London Ltd. ISBN 978-1852336820
+ NIST Guide to the SI, Chapter 5: Units Outside the SI

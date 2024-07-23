@@ -1,0 +1,2348 @@
+{
+    "second": {
+        "abbrev": [
+            "s"
+        ],
+        "definition": null
+    },
+    "metre": {
+        "abbrev": [
+            "m"
+        ],
+        "definition": null
+    },
+    "kilogram": {
+        "abbrev": [
+            "kg"
+        ],
+        "definition": null
+    },
+    "ampere": {
+        "abbrev": [
+            "A"
+        ],
+        "definition": null
+    },
+    "kelvin": {
+        "abbrev": [
+            "K"
+        ],
+        "definition": null
+    },
+    "mole": {
+        "abbrev": [
+            "mol"
+        ],
+        "definition": null
+    },
+    "candela": {
+        "abbrev": [
+            "cd"
+        ],
+        "definition": null
+    },
+    "Derived From: https://en.wikipedia.org/wiki/Non-SI_units_mentioned_in_the_SI\nAccessed July 21st 2024\n\nastronomical unit": {
+        "abbrev": [
+            "au"
+        ],
+        "definition": null
+    },
+    "parsec": {
+        "abbrev": [
+            "pc"
+        ],
+        "definition": null
+    },
+    "neper": {
+        "abbrev": [
+            "Np"
+        ],
+        "definition": null
+    },
+    "bel": {
+        "abbrev": [
+            "B"
+        ],
+        "definition": null
+    },
+    "decibel": {
+        "abbrev": [
+            "dB"
+        ],
+        "definition": null
+    },
+    "unified atomic mass unit": {
+        "abbrev": [
+            "u"
+        ],
+        "definition": null
+    },
+    "dalton": {
+        "abbrev": [
+            "Da"
+        ],
+        "definition": null
+    },
+    "natural unit (n.u.) of speed": {
+        "abbrev": [
+            "c0"
+        ],
+        "definition": null
+    },
+    "n.u. of action": {
+        "abbrev": [
+            "\u0127"
+        ],
+        "definition": null
+    },
+    "n.u. of mass": {
+        "abbrev": [
+            "me"
+        ],
+        "definition": null
+    },
+    "n.u. of time": {
+        "abbrev": [
+            "\u0127\u2044(mec02)"
+        ],
+        "definition": null
+    },
+    "atomic unit (a.u.) of charge": {
+        "abbrev": [
+            "e"
+        ],
+        "definition": null
+    },
+    "a.u. of mass": {
+        "abbrev": [
+            "me"
+        ],
+        "definition": null
+    },
+    "a.u. of action": {
+        "abbrev": [
+            "\u0127"
+        ],
+        "definition": null
+    },
+    "a.u. of length": {
+        "abbrev": [
+            "a0"
+        ],
+        "definition": null
+    },
+    "a.u. of energy": {
+        "abbrev": [
+            "Eh"
+        ],
+        "definition": null
+    },
+    "a.u. of time": {
+        "abbrev": [
+            "\u0127\u2044Eh"
+        ],
+        "definition": null
+    },
+    "nautical mile": {
+        "abbrev": [
+            "M",
+            "nmi or NM"
+        ],
+        "definition": null
+    },
+    "knot": {
+        "abbrev": [
+            "kn",
+            "kt"
+        ],
+        "definition": null
+    },
+    "\u00e5ngstr\u00f6m": {
+        "abbrev": [
+            "\u00c5"
+        ],
+        "definition": null
+    },
+    "are": {
+        "abbrev": [
+            "a"
+        ],
+        "definition": null
+    },
+    "hectare": {
+        "abbrev": [
+            "ha"
+        ],
+        "definition": null
+    },
+    "barn": {
+        "abbrev": [
+            "b"
+        ],
+        "definition": null
+    },
+    "bar": {
+        "abbrev": [
+            "bar"
+        ],
+        "definition": null
+    },
+    "standard atmosphere": {
+        "abbrev": [
+            "atm"
+        ],
+        "definition": null
+    },
+    "gal": {
+        "abbrev": [
+            "Gal"
+        ],
+        "definition": null
+    },
+    "curie": {
+        "abbrev": [
+            "Ci"
+        ],
+        "definition": null
+    },
+    "roentgen": {
+        "abbrev": [
+            "R"
+        ],
+        "definition": null
+    },
+    "rad": {
+        "abbrev": [
+            "rad",
+            "rd"
+        ],
+        "definition": null
+    },
+    "rem": {
+        "abbrev": [
+            "rem"
+        ],
+        "definition": null
+    },
+    "erg": {
+        "abbrev": [
+            "erg"
+        ],
+        "definition": null
+    },
+    "dyne": {
+        "abbrev": [
+            "dyn"
+        ],
+        "definition": null
+    },
+    "poise": {
+        "abbrev": [
+            "P"
+        ],
+        "definition": null
+    },
+    "stokes": {
+        "abbrev": [
+            "st",
+            "St"
+        ],
+        "definition": null
+    },
+    "maxwell": {
+        "abbrev": [
+            "Mx"
+        ],
+        "definition": null
+    },
+    "gauss": {
+        "abbrev": [
+            "G",
+            "Gs"
+        ],
+        "definition": null
+    },
+    "\u00f8rsted": {
+        "abbrev": [
+            "Oe"
+        ],
+        "definition": null
+    },
+    "phot": {
+        "abbrev": [
+            "ph"
+        ],
+        "definition": null
+    },
+    "torr": {
+        "abbrev": [
+            "Torr",
+            "torr"
+        ],
+        "definition": null
+    },
+    "kilogram-force": {
+        "abbrev": [
+            "kgf"
+        ],
+        "definition": null
+    },
+    "calorie": {
+        "abbrev": [
+            "cal"
+        ],
+        "definition": null
+    },
+    "micron": {
+        "abbrev": [
+            "\u03bc",
+            "\u00b5"
+        ],
+        "definition": null
+    },
+    "x-unit": {
+        "abbrev": [
+            "xu"
+        ],
+        "definition": null
+    },
+    "stilb": {
+        "abbrev": [
+            "sb"
+        ],
+        "definition": null
+    },
+    "gamma (Mass)": {
+        "abbrev": [
+            "\u03b3"
+        ],
+        "definition": null
+    },
+    "\u03b3 (magnetic flux density)": {
+        "abbrev": [
+            "\u03b3"
+        ],
+        "definition": null
+    },
+    "lambda": {
+        "abbrev": [
+            "\u03bb"
+        ],
+        "definition": null
+    },
+    "jansky": {
+        "abbrev": [
+            "Jy"
+        ],
+        "definition": null
+    },
+    "millimetre of mercury": {
+        "abbrev": [
+            "mmHg"
+        ],
+        "definition": null
+    },
+    "hertz": {
+        "abbrev": [
+            "Hz"
+        ],
+        "definition": "one reciprocal second (1 s\u22121)"
+    },
+    "radian": {
+        "abbrev": [
+            "rad"
+        ],
+        "definition": "one (1)"
+    },
+    "steradian": {
+        "abbrev": [
+            "sr"
+        ],
+        "definition": "one (1)"
+    },
+    "newton": {
+        "abbrev": [
+            "N"
+        ],
+        "definition": "one kilogram-metre per second squared (1 kg\u22c5m\u22c5s\u22122)"
+    },
+    "pascal": {
+        "abbrev": [
+            "Pa"
+        ],
+        "definition": "one newton per square metre (1 N\u22c5m\u22122)"
+    },
+    "joule": {
+        "abbrev": [
+            "J"
+        ],
+        "definition": "one newton-metre (1 N\u22c5m)"
+    },
+    "watt": {
+        "abbrev": [
+            "W"
+        ],
+        "definition": "one joule per second (1 J\u22c5s\u22121)"
+    },
+    "coulomb": {
+        "abbrev": [
+            "C"
+        ],
+        "definition": "one ampere second (1 A\u22c5s)"
+    },
+    "volt": {
+        "abbrev": [
+            "V"
+        ],
+        "definition": "one joule per coulomb (1 J\u22c5C\u22121)"
+    },
+    "weber": {
+        "abbrev": [
+            "Wb"
+        ],
+        "definition": "one volt-second (1 V\u22c5s)"
+    },
+    "tesla": {
+        "abbrev": [
+            "T"
+        ],
+        "definition": "one weber per square metre (1 Wb\u22c5m\u22122)"
+    },
+    "farad": {
+        "abbrev": [
+            "F"
+        ],
+        "definition": "one coulomb per volt (1 C\u22c5V\u22121)"
+    },
+    "ohm": {
+        "abbrev": [
+            "\u03a9"
+        ],
+        "definition": "one volt per ampere (1 V\u22c5A\u22121)"
+    },
+    "siemens": {
+        "abbrev": [
+            "S"
+        ],
+        "definition": "one ampere per volt (1 A\u22c5V\u22121)"
+    },
+    "henry": {
+        "abbrev": [
+            "H"
+        ],
+        "definition": "one weber per ampere (1 Wb\u22c5A\u22121)"
+    },
+    "degree Celsius": {
+        "abbrev": [
+            "\u00b0C"
+        ],
+        "definition": "one kelvin (1 K)"
+    },
+    "lumen": {
+        "abbrev": [
+            "lm"
+        ],
+        "definition": "one candela-steradian (1 cd\u22c5sr)"
+    },
+    "lux": {
+        "abbrev": [
+            "lx"
+        ],
+        "definition": "one lumen per square metre (1 lm\u22c5m\u22122)"
+    },
+    "becquerel": {
+        "abbrev": [
+            "Bq"
+        ],
+        "definition": "one reciprocal second (1 s\u22121)"
+    },
+    "gray": {
+        "abbrev": [
+            "Gy"
+        ],
+        "definition": "one joule per kilogram (1 J\u22c5kg\u22121)"
+    },
+    "sievert": {
+        "abbrev": [
+            "Sv"
+        ],
+        "definition": "one joule per kilogram (1 J\u22c5kg\u22121)"
+    },
+    "katal": {
+        "abbrev": [
+            "kat"
+        ],
+        "definition": "one mole per second (1 mol\u22c5s\u22121)"
+    },
+    "kayser": {
+        "abbrev": [
+            "K"
+        ],
+        "definition": "1 cm\u22121 (100 m\u22121)"
+    },
+    "barye": {
+        "abbrev": [
+            "Ba"
+        ],
+        "definition": "1 dyn\u22c5cm\u22122 (100 mPa)"
+    },
+    "statwatt": {
+        "abbrev": [
+            "statW"
+        ],
+        "definition": "100 nW"
+    },
+    "statcoulomb (statC) or franklin": {
+        "abbrev": [
+            "Fr"
+        ],
+        "definition": "~333.564 pC"
+    },
+    "statampere": {
+        "abbrev": [
+            "statA"
+        ],
+        "definition": "~333.564 pA"
+    },
+    "statvolt": {
+        "abbrev": [
+            "statV"
+        ],
+        "definition": "299.792458 V"
+    },
+    "statfarad": {
+        "abbrev": [
+            "statF"
+        ],
+        "definition": "~1.112646 pF"
+    },
+    "statdaraf": {
+        "abbrev": [
+            "statD"
+        ],
+        "definition": "1/statF"
+    },
+    "abwatt": {
+        "abbrev": [
+            "abW"
+        ],
+        "definition": "100 nW"
+    },
+    "abcoulomb": {
+        "abbrev": [
+            "abC"
+        ],
+        "definition": "10 C"
+    },
+    "abampere (abA) or biot": {
+        "abbrev": [
+            "Bi"
+        ],
+        "definition": "10 A"
+    },
+    "abvolt": {
+        "abbrev": [
+            "abV"
+        ],
+        "definition": "10 nV"
+    },
+    "abohm": {
+        "abbrev": [
+            "ab\u03a9"
+        ],
+        "definition": "1 n\u03a9"
+    },
+    "abfarad": {
+        "abbrev": [
+            "abF"
+        ],
+        "definition": "1 GF"
+    },
+    "gilbert": {
+        "abbrev": [
+            "Gb"
+        ],
+        "definition": "(10/4\u03c0) A = 0.7957747... A"
+    },
+    "oersted": {
+        "abbrev": [
+            "Oe"
+        ],
+        "definition": "(1000/4\u03c0) A/m = 79.57747... A/m"
+    },
+    "franklin": {
+        "abbrev": [
+            "Fr"
+        ],
+        "definition": "~333.564 pC"
+    },
+    "tonne": {
+        "abbrev": [
+            "t"
+        ],
+        "definition": "1 Mg"
+    },
+    "sth\u00e8ne": {
+        "abbrev": [
+            "sn"
+        ],
+        "definition": "1 kN"
+    },
+    "pi\u00e8ze": {
+        "abbrev": [
+            "pz"
+        ],
+        "definition": "1 kPa"
+    },
+    "cycle per second": {
+        "abbrev": [
+            "cps or cyc/s"
+        ],
+        "definition": "1 Hz"
+    },
+    "mho": {
+        "abbrev": [
+            "\u2127"
+        ],
+        "definition": "1 S"
+    },
+    "poncelet": {
+        "abbrev": [
+            "p"
+        ],
+        "definition": "1 kgf\u22c5m\u22c5s\u22121 (980.665 W)"
+    },
+    "technical atmosphere (at) is a": {
+        "abbrev": [
+            "non-coherent"
+        ],
+        "definition": "1 kgf\u22c5cm\u22122 (98066.5 Pa)"
+    },
+    "angstrom": {
+        "abbrev": [
+            "symbol \u00c5",
+            "A",
+            "\u00c5"
+        ],
+        "definition": "100 pm"
+    },
+    "basic module": {
+        "abbrev": [
+            "M"
+        ],
+        "definition": "one hundred millimetres (100 mm)"
+    },
+    "myriametre": {
+        "abbrev": [
+            "mym"
+        ],
+        "definition": "ten kilometres (10 km)"
+    },
+    "spat": {
+        "abbrev": [
+            "S"
+        ],
+        "definition": "one terametre (1 Tm)"
+    },
+    "decare": {
+        "abbrev": [
+            "daa"
+        ],
+        "definition": "1000 m2"
+    },
+    "litre": {
+        "abbrev": [
+            "symbol l or L",
+            "l"
+        ],
+        "definition": "one cubic decimetre (1 dm3)"
+    },
+    "stere": {
+        "abbrev": [
+            "st"
+        ],
+        "definition": "1 m3"
+    },
+    "svedberg": {
+        "abbrev": [
+            "S or Sv"
+        ],
+        "definition": "one hundred femtoseconds (100 fs)"
+    },
+    "eotvos": {
+        "abbrev": [
+            "E"
+        ],
+        "definition": "10\u22129 Gal/cm (10\u22129 s\u22122)"
+    },
+    "sverdrup": {
+        "abbrev": [
+            "Sv"
+        ],
+        "definition": "one million metres cubed per second (106 m3/s)"
+    },
+    "gamma": {
+        "abbrev": [
+            "\u03b3"
+        ],
+        "definition": "one microgram (1 \u03bcg)"
+    },
+    "tex": {
+        "abbrev": [
+            "tex"
+        ],
+        "definition": "one gram per kilometre (1 g/km)"
+    },
+    "number metric": {
+        "abbrev": [
+            "Nm"
+        ],
+        "definition": "1000 metres per kilogram (1 km/kg)"
+    },
+    "metre sea water": {
+        "abbrev": [
+            "msw"
+        ],
+        "definition": "10 kPa"
+    },
+    "debye": {
+        "abbrev": [
+            "D"
+        ],
+        "definition": "~3.33564 qC\u22c5m"
+    },
+    "buckingham": {
+        "abbrev": [
+            "B"
+        ],
+        "definition": "10\u221226 statC\u22c5cm2"
+    },
+    "nox": {
+        "abbrev": [
+            "nx"
+        ],
+        "definition": "1 millilux (1 mlx)"
+    },
+    "nit": {
+        "abbrev": [
+            "nt"
+        ],
+        "definition": "one candela per metre squared (1 cd\u22c5m\u22122)"
+    },
+    "lambert": {
+        "abbrev": [
+            "L"
+        ],
+        "definition": "104/\u03c0 cd\u22c5m\u22122"
+    },
+    "talbot": {
+        "abbrev": [
+            "T"
+        ],
+        "definition": "one lumen-second (1 lm\u22c5s)"
+    },
+    "einstein (E) has two conflicting definitions. The original is a unit of energy, equal to the energy in one mole": {
+        "abbrev": [
+            "1 mol"
+        ],
+        "definition": "one mole (1 mol) of photons"
+    },
+    "rayleigh": {
+        "abbrev": [
+            "R"
+        ],
+        "definition": "1010 m\u22122\u22c5s\u22121 (104 mm\u22122\u22c5s\u22121)"
+    },
+    "roentgen equivalent man": {
+        "abbrev": [
+            "rem"
+        ],
+        "definition": "10 mSv"
+    },
+    "molar": {
+        "abbrev": [
+            "M"
+        ],
+        "definition": "one mole per litre (1 mol/dm3)"
+    },
+    "Derived From": {
+        "abbrev": [
+            "https://ukma.org.uk/what-is-metric/definitions/non-si-units/",
+            "https://physics.nist.gov/cgi-bin/cuu/Info/Units/outside.html"
+        ],
+        "definition": null
+    },
+    "minute": {
+        "abbrev": [
+            "min"
+        ],
+        "definition": null
+    },
+    "hour": {
+        "abbrev": [
+            "h"
+        ],
+        "definition": null
+    },
+    "day": {
+        "abbrev": [
+            "d"
+        ],
+        "definition": null
+    },
+    "hectacre": {
+        "abbrev": [
+            "ha"
+        ],
+        "definition": null
+    },
+    "degree": {
+        "abbrev": [
+            "\u00b0"
+        ],
+        "definition": null
+    },
+    "astronomical unit": {
+        "abbrev": [
+            "au",
+            "AU, ua"
+        ],
+        "definition": null
+    },
+    "electronvolt": {
+        "abbrev": [
+            "eV"
+        ],
+        "definition": null
+    },
+    "minute (angle)": {
+        "abbrev": [
+            "'"
+        ],
+        "definition": null
+    },
+    "second (angle)": {
+        "abbrev": [
+            "''"
+        ],
+        "definition": null
+    },
+    "metric ton": {
+        "abbrev": [
+            "t"
+        ],
+        "definition": null
+    },
+    "Derived From: Derived From": {
+        "abbrev": [
+            "https://www.gordonengland.co.uk/conversion/sinon4.htm"
+        ],
+        "definition": null
+    },
+    "year": {
+        "abbrev": [
+            "a"
+        ],
+        "definition": null
+    },
+    "millimeter of mercury": {
+        "abbrev": [
+            "mmHg"
+        ],
+        "definition": null
+    },
+    "I": {
+        "abbrev": [
+            "I"
+        ],
+        "definition": null
+    },
+    "O": {
+        "abbrev": [
+            "O"
+        ],
+        "definition": null
+    },
+    "Q": {
+        "abbrev": [
+            "Q"
+        ],
+        "definition": null
+    },
+    "X": {
+        "abbrev": [
+            "X"
+        ],
+        "definition": null
+    },
+    "Y": {
+        "abbrev": [
+            "Y"
+        ],
+        "definition": null
+    },
+    "Z": {
+        "abbrev": [
+            "Z"
+        ],
+        "definition": null
+    },
+    "Derived from https://usma.org/wp-content/uploads/2020/05/traditional-non-si-units.pdf?x30984\nConverted to Word using https://smallpdf.com/pdf-to-word\n\nacre (commercial) (36 000 ft\u00b2)": {
+        "abbrev": [
+            "ac"
+        ],
+        "definition": "area"
+    },
+    "acre (US survey) (43 560 ft\u00b2)": {
+        "abbrev": [
+            "ac"
+        ],
+        "definition": "area"
+    },
+    "acre foot (43 560 ft\u00b3)": {
+        "abbrev": [
+            "af"
+        ],
+        "definition": "volume"
+    },
+    "acre foot per day": {
+        "abbrev": [
+            "af/d"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "acre foot per year": {
+        "abbrev": [
+            "af/y"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "acre inch (3630 ft\u00b3)": {
+        "abbrev": [
+            "ac-in"
+        ],
+        "definition": "volume"
+    },
+    "American wire gauge": {
+        "abbrev": [
+            "AWG"
+        ],
+        "definition": "length"
+    },
+    "atmosphere (standard)": {
+        "abbrev": [
+            "atm"
+        ],
+        "definition": "pressure"
+    },
+    "atomic mass unit (unified)": {
+        "abbrev": [
+            "u"
+        ],
+        "definition": "mass"
+    },
+    "barrel (petroleum)": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "mass"
+    },
+    "barrel (petroleum, statistical) (42 gal)": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "barrel (US cranberry) (5826.5 in\u00b3) ?": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "barrel (US dry) (105 US dry qt)": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "barrel (US fed. proof spirits) (40 gal) ?": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "barrel (US federal) (31 gal)": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "barrel (US liquid) (31.5 gal)": {
+        "abbrev": [
+            "bbl"
+        ],
+        "definition": "volume"
+    },
+    "billion cubic feet (gas)": {
+        "abbrev": [
+            "Bcf"
+        ],
+        "definition": "volume"
+    },
+    "Birmingham wire gauge (Stubs Standard)": {
+        "abbrev": [
+            "BWG"
+        ],
+        "definition": "length"
+    },
+    "board foot (nominal)": {
+        "abbrev": [
+            "bf"
+        ],
+        "definition": "volume"
+    },
+    "body mass index (human health)": {
+        "abbrev": [
+            "BMI"
+        ],
+        "definition": "mass per height squared"
+    },
+    "British thermal unit (International table)": {
+        "abbrev": [
+            "BtuIT"
+        ],
+        "definition": "energy"
+    },
+    "British thermal unit (thermochemical)": {
+        "abbrev": [
+            "Btuth"
+        ],
+        "definition": "energy"
+    },
+    "Btu per hour (international table) (\"BTU\")": {
+        "abbrev": [
+            "BTU/H"
+        ],
+        "definition": "power"
+    },
+    "bushel (barley) (USDA)": {
+        "abbrev": [
+            "bu"
+        ],
+        "definition": "mass"
+    },
+    "bushel (oats) (USDA)": {
+        "abbrev": [
+            "bu"
+        ],
+        "definition": "mass"
+    },
+    "bushel (shelled corn or rye) (USDA)": {
+        "abbrev": [
+            "bu"
+        ],
+        "definition": "mass"
+    },
+    "bushel (US volume) (2150.42 in\u00b3)": {
+        "abbrev": [
+            "bu"
+        ],
+        "definition": "volume"
+    },
+    "bushel (wheat, soybeans, potatoes)": {
+        "abbrev": [
+            "bu"
+        ],
+        "definition": "mass"
+    },
+    "cable (US Navy) (120 fathoms) ?": {
+        "abbrev": [
+            "ca"
+        ],
+        "definition": "length"
+    },
+    "cable (US) (100 fathoms) ?": {
+        "abbrev": [
+            "ca"
+        ],
+        "definition": "length"
+    },
+    "caliber (US)": {
+        "abbrev": [
+            "cal"
+        ],
+        "definition": "length"
+    },
+    "calorie (international table)": {
+        "abbrev": [
+            "calIT"
+        ],
+        "definition": "energy"
+    },
+    "Calorie (nutritional) (ADA)": {
+        "abbrev": [
+            "Cal"
+        ],
+        "definition": "energy"
+    },
+    "calorie (thermochemical)": {
+        "abbrev": [
+            "calth"
+        ],
+        "definition": "energy"
+    },
+    "candlepower (candle)": {
+        "abbrev": [
+            "cp"
+        ],
+        "definition": "luminous intensity"
+    },
+    "carat (metric)": {
+        "abbrev": [
+            "ct"
+        ],
+        "definition": "mass"
+    },
+    "cc (slang for cubic centimeter)": {
+        "abbrev": [
+            "cc"
+        ],
+        "definition": "volume"
+    },
+    "centipoise": {
+        "abbrev": [
+            "cp"
+        ],
+        "definition": "viscosity, absolute"
+    },
+    "chain (US survey)": {
+        "abbrev": [
+            "ch"
+        ],
+        "definition": "length"
+    },
+    "charge unit": {
+        "abbrev": [
+            "e"
+        ],
+        "definition": "electric charge"
+    },
+    "circular inch (p[0.5 in]\u00b2) ?": {
+        "abbrev": [
+            "cir in"
+        ],
+        "definition": "area"
+    },
+    "circular mil (p[0.5 mil]\u00b2)": {
+        "abbrev": [
+            "cm"
+        ],
+        "definition": "area"
+    },
+    "cord (128 ft\u00b3)": {
+        "abbrev": [
+            "cd"
+        ],
+        "definition": "volume"
+    },
+    "cord foot (16 ft\u00b3)": {
+        "abbrev": [
+            "cd-ft"
+        ],
+        "definition": "volume"
+    },
+    "cubic foot": {
+        "abbrev": [
+            "cu ft"
+        ],
+        "definition": "volume"
+    },
+    "cubic foot per minute": {
+        "abbrev": [
+            "cfm"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "cubic foot per second (\"cusec,\" \"second foot\")": {
+        "abbrev": [
+            "cfs"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "cubic inch": {
+        "abbrev": [
+            "cu in"
+        ],
+        "definition": "volume"
+    },
+    "cubic inch per minute ?": {
+        "abbrev": [
+            "cim"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "cubic mile (147 197 952 000 ft\u00b3)": {
+        "abbrev": [
+            "mi\u00b3"
+        ],
+        "definition": "volume"
+    },
+    "cubic yard (27 ft\u00b3)": {
+        "abbrev": [
+            "cy"
+        ],
+        "definition": "volume"
+    },
+    "cufic foot per hour": {
+        "abbrev": [
+            "CFH"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "cup (US)": {
+        "abbrev": [
+            "C"
+        ],
+        "definition": "volume"
+    },
+    "dalton (atomic mass unit)": {
+        "abbrev": [
+            "Da"
+        ],
+        "definition": "mass"
+    },
+    "day (sidereal)": {
+        "abbrev": [
+            "d"
+        ],
+        "definition": "time"
+    },
+    "day (solar)": {
+        "abbrev": [
+            "d"
+        ],
+        "definition": "time"
+    },
+    "decibel (sound level)": {
+        "abbrev": [
+            "dB"
+        ],
+        "definition": "intensity, sound"
+    },
+    "decibel (sound pressure level)": {
+        "abbrev": [
+            "dB"
+        ],
+        "definition": "pressure"
+    },
+    "degree (arc degree)": {
+        "abbrev": [
+            "\u00b0"
+        ],
+        "definition": "angle, plane"
+    },
+    "degrees Ammoniameter (ammonia) ?": {
+        "abbrev": [
+            "\u00b0Am"
+        ],
+        "definition": "density"
+    },
+    "degrees API (API gravity) (petroleum)": {
+        "abbrev": [
+            "G"
+        ],
+        "definition": "density"
+    },
+    "degrees Bark (tanning liquors) ?": {
+        "abbrev": [
+            "\u00b0Bk"
+        ],
+        "definition": "density"
+    },
+    "degrees Baum\u00e9 (heavy) ?": {
+        "abbrev": [
+            "B\u00e9"
+        ],
+        "definition": "density"
+    },
+    "degrees Baum\u00e9 (light) ?": {
+        "abbrev": [
+            "B\u00e9"
+        ],
+        "definition": "density"
+    },
+    "degrees Beck ?": {
+        "abbrev": [
+            "\u00b0Beck"
+        ],
+        "definition": "density"
+    },
+    "degrees Brix (sugar solutions) ?": {
+        "abbrev": [
+            "\u00b0Brix"
+        ],
+        "definition": "density"
+    },
+    "degrees Fahrenheit": {
+        "abbrev": [
+            "\u00b0F"
+        ],
+        "definition": "temperature"
+    },
+    "degrees Rankine": {
+        "abbrev": [
+            "\u00b0R"
+        ],
+        "definition": "temperature"
+    },
+    "degrees Soxhlet (milk) ?": {
+        "abbrev": [
+            "\u00b0Sx"
+        ],
+        "definition": "density"
+    },
+    "degrees Twaddel ?": {
+        "abbrev": [
+            "Tw\u00b0"
+        ],
+        "definition": "density"
+    },
+    "Dobson unit": {
+        "abbrev": [
+            "DU"
+        ],
+        "definition": "areal density"
+    },
+    "dram (avoirdupois)": {
+        "abbrev": [
+            "dr"
+        ],
+        "definition": "mass"
+    },
+    "drop": {
+        "abbrev": [
+            "gtt"
+        ],
+        "definition": "volume"
+    },
+    "Einstein unit": {
+        "abbrev": [
+            "EU"
+        ],
+        "definition": "energy"
+    },
+    "electron rest mass": {
+        "abbrev": [
+            "me"
+        ],
+        "definition": "mass"
+    },
+    "energy efficiency ratio ([Btu/h]/W)": {
+        "abbrev": [
+            "EER"
+        ],
+        "definition": "power ratio"
+    },
+    "exposure value": {
+        "abbrev": [
+            "EV"
+        ],
+        "definition": "illuminance"
+    },
+    "fathom": {
+        "abbrev": [
+            "fm"
+        ],
+        "definition": "length"
+    },
+    "fluid ounce (US) (\"shot\")": {
+        "abbrev": [
+            "fl oz"
+        ],
+        "definition": "volume"
+    },
+    "foot (International)": {
+        "abbrev": [
+            "ft"
+        ],
+        "definition": "length"
+    },
+    "foot (US survey)": {
+        "abbrev": [
+            "ft"
+        ],
+        "definition": "length"
+    },
+    "foot of water (39.2 \u00b0F)": {
+        "abbrev": [
+            "ftWC"
+        ],
+        "definition": "pressure"
+    },
+    "foot per hour": {
+        "abbrev": [
+            "fph"
+        ],
+        "definition": "speed"
+    },
+    "foot per minute": {
+        "abbrev": [
+            "fpm"
+        ],
+        "definition": "speed"
+    },
+    "foot per second": {
+        "abbrev": [
+            "fps"
+        ],
+        "definition": "speed"
+    },
+    "foot pound (pound-force foot)": {
+        "abbrev": [
+            "ft\u00b7lb"
+        ],
+        "definition": "energy"
+    },
+    "foot ton (ton-force foot)": {
+        "abbrev": [
+            "ft\u00b7tonf"
+        ],
+        "definition": "energy"
+    },
+    "footcandle": {
+        "abbrev": [
+            "fc"
+        ],
+        "definition": "illuminance"
+    },
+    "footcandle (apparent or effective) ?": {
+        "abbrev": [
+            "fc"
+        ],
+        "definition": "luminance"
+    },
+    "foot-lambert ?": {
+        "abbrev": [
+            "ft-L"
+        ],
+        "definition": "luminance"
+    },
+    "furlong": {
+        "abbrev": [
+            "fur"
+        ],
+        "definition": "length"
+    },
+    "gallon (US liquid)": {
+        "abbrev": [
+            "gal"
+        ],
+        "definition": "volume"
+    },
+    "gallon (US) per day": {
+        "abbrev": [
+            "gpd"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "gallon (US) per day per square foot": {
+        "abbrev": [
+            "gpd/sf"
+        ],
+        "definition": "viscosity, kinematic"
+    },
+    "gallon (US) per hour": {
+        "abbrev": [
+            "gph"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "gallon (US) per minute": {
+        "abbrev": [
+            "gpm"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "gallon (US) per second": {
+        "abbrev": [
+            "gps"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "grain": {
+        "abbrev": [
+            "gr"
+        ],
+        "definition": "mass"
+    },
+    "horsepower (mechanical)": {
+        "abbrev": [
+            "hp"
+        ],
+        "definition": "power"
+    },
+    "horsepower hour": {
+        "abbrev": [
+            "hp\u00b7h"
+        ],
+        "definition": "energy"
+    },
+    "horsepower year": {
+        "abbrev": [
+            "hp\u00b7yr"
+        ],
+        "definition": "energy"
+    },
+    "hour (sidereal)": {
+        "abbrev": [
+            "h"
+        ],
+        "definition": "time"
+    },
+    "hour (solar)": {
+        "abbrev": [
+            "h"
+        ],
+        "definition": "time"
+    },
+    "hour of right ascension (astronomy)": {
+        "abbrev": [
+            "h RA"
+        ],
+        "definition": "angle, plane"
+    },
+    "hundredweight (short or net)": {
+        "abbrev": [
+            "cwt"
+        ],
+        "definition": "mass"
+    },
+    "inch": {
+        "abbrev": [
+            "in"
+        ],
+        "definition": "length"
+    },
+    "inch of mercury (60 \u00b0F)": {
+        "abbrev": [
+            "inHg"
+        ],
+        "definition": "pressure"
+    },
+    "inch of water (60 \u00b0F)": {
+        "abbrev": [
+            "\u00b2WC"
+        ],
+        "definition": "pressure"
+    },
+    "inch per minute ?": {
+        "abbrev": [
+            "ipm"
+        ],
+        "definition": "speed"
+    },
+    "inch per second": {
+        "abbrev": [
+            "ips"
+        ],
+        "definition": "speed"
+    },
+    "inch pound (pound-force inch)": {
+        "abbrev": [
+            "lbf\u00b7in"
+        ],
+        "definition": "energy"
+    },
+    "jigger (US) (1.5 fl oz)": {
+        "abbrev": [
+            "ji"
+        ],
+        "definition": "volume"
+    },
+    "kilogram-force (\u201ckilogram\u201d)": {
+        "abbrev": [
+            "kgf"
+        ],
+        "definition": "force"
+    },
+    "kilometer per hour": {
+        "abbrev": [
+            "kph"
+        ],
+        "definition": "speed"
+    },
+    "kip (kilopound-force) (1000 lbf)": {
+        "abbrev": [
+            "kip"
+        ],
+        "definition": "force"
+    },
+    "kip foot (1000 lbf\u00b7ft)": {
+        "abbrev": [
+            "kip\u00b7ft"
+        ],
+        "definition": "energy"
+    },
+    "kip per square inch": {
+        "abbrev": [
+            "ksi"
+        ],
+        "definition": "pressure"
+    },
+    "lambert ?": {
+        "abbrev": [
+            "L"
+        ],
+        "definition": "luminance"
+    },
+    "langley (calth/cm\u00b2)": {
+        "abbrev": [
+            "ly"
+        ],
+        "definition": "irradiation"
+    },
+    "light year": {
+        "abbrev": [
+            "ly"
+        ],
+        "definition": "length"
+    },
+    "link (US survey) (1/100 chain) ?": {
+        "abbrev": [
+            "li"
+        ],
+        "definition": "length"
+    },
+    "liter atmosphere (45\u00b0 latitude)": {
+        "abbrev": [
+            "L\u00b7atm"
+        ],
+        "definition": "energy"
+    },
+    "liter per minute": {
+        "abbrev": [
+            "L/min"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "liters per flush": {
+        "abbrev": [
+            "Lpf"
+        ],
+        "definition": "volume"
+    },
+    "lumen hour": {
+        "abbrev": [
+            "lm\u00b7h"
+        ],
+        "definition": "luminous energy"
+    },
+    "Mach number": {
+        "abbrev": [
+            "mach"
+        ],
+        "definition": "speed"
+    },
+    "magnitude (apparent stellar)": {
+        "abbrev": [
+            "mag"
+        ],
+        "definition": "intensity"
+    },
+    "mean horizontal candlepower ?": {
+        "abbrev": [
+            "MHCP"
+        ],
+        "definition": "4\nmean spherical candlepower ?"
+    },
+    "metric ton of coal equivalent (UN std)": {
+        "abbrev": [
+            "mtce"
+        ],
+        "definition": "energy"
+    },
+    "metric ton of oil equivalent (1010 calth)": {
+        "abbrev": [
+            "mtoe"
+        ],
+        "definition": "energy"
+    },
+    "microinch": {
+        "abbrev": [
+            "\u03bcin"
+        ],
+        "definition": "length"
+    },
+    "mil": {
+        "abbrev": [
+            "mil"
+        ],
+        "definition": "length"
+    },
+    "mil (angular) (1/6400 circle)": {
+        "abbrev": [
+            "mil"
+        ],
+        "definition": "angle, plane"
+    },
+    "mile (International)": {
+        "abbrev": [
+            "mi"
+        ],
+        "definition": "length"
+    },
+    "mile (nautical)": {
+        "abbrev": [
+            "NM"
+        ],
+        "definition": "length"
+    },
+    "mile (US survey)": {
+        "abbrev": [
+            "mi"
+        ],
+        "definition": "length"
+    },
+    "mile per hour": {
+        "abbrev": [
+            "mph"
+        ],
+        "definition": "speed"
+    },
+    "mile per hour per second": {
+        "abbrev": [
+            "mphps"
+        ],
+        "definition": "acceleration"
+    },
+    "mile per minute": {
+        "abbrev": [
+            "mpm"
+        ],
+        "definition": "speed"
+    },
+    "mile per second": {
+        "abbrev": [
+            "mps"
+        ],
+        "definition": "speed"
+    },
+    "millibar": {
+        "abbrev": [
+            "mb"
+        ],
+        "definition": "pressure"
+    },
+    "millimeters of water": {
+        "abbrev": [
+            "mmH2O"
+        ],
+        "definition": "pressure"
+    },
+    "million acre feet": {
+        "abbrev": [
+            "maf"
+        ],
+        "definition": "volume"
+    },
+    "million acres": {
+        "abbrev": [
+            "MMAc"
+        ],
+        "definition": "area"
+    },
+    "million barrels (petroleum)": {
+        "abbrev": [
+            "MMbbl"
+        ],
+        "definition": "volume"
+    },
+    "million board feet": {
+        "abbrev": [
+            "MMbf"
+        ],
+        "definition": "volume"
+    },
+    "million Btu (International table)": {
+        "abbrev": [
+            "MMBtu"
+        ],
+        "definition": "energy"
+    },
+    "million cubic yards": {
+        "abbrev": [
+            "MMcy"
+        ],
+        "definition": "volume"
+    },
+    "million gallons (US) per day": {
+        "abbrev": [
+            "mgd"
+        ],
+        "definition": "flow, volumetric"
+    },
+    "minute (mean solar)": {
+        "abbrev": [
+            "min"
+        ],
+        "definition": "time"
+    },
+    "minute (sidereal)": {
+        "abbrev": [
+            "m"
+        ],
+        "definition": "time"
+    },
+    "minute of arc (arc minute)": {
+        "abbrev": [
+            "\u00a2"
+        ],
+        "definition": "angle, plane"
+    },
+    "minute of right ascension (astronomy)": {
+        "abbrev": [
+            "m RA"
+        ],
+        "definition": "angle, plane"
+    },
+    "month (mean calendar)": {
+        "abbrev": [
+            "mo"
+        ],
+        "definition": "time"
+    },
+    "month (sidereal)": {
+        "abbrev": [
+            "mo"
+        ],
+        "definition": "time"
+    },
+    "month (synodic or lunar)": {
+        "abbrev": [
+            "mo"
+        ],
+        "definition": "time"
+    },
+    "nail penny": {
+        "abbrev": [
+            "d"
+        ],
+        "definition": "length"
+    },
+    "oersted ?": {
+        "abbrev": [
+            "Oe"
+        ],
+        "definition": "magnetic field strength"
+    },
+    "ounce (avoirdupois)": {
+        "abbrev": [
+            "oz"
+        ],
+        "definition": "mass"
+    },
+    "ounce (troy)": {
+        "abbrev": [
+            "ozt"
+        ],
+        "definition": "mass"
+    },
+    "ounce inch (ounce-force inch) ?": {
+        "abbrev": [
+            "ozf\u00b7in"
+        ],
+        "definition": "energy"
+    },
+    "ounce per square yard (\"ounce\")": {
+        "abbrev": [
+            "oz"
+        ],
+        "definition": "areal density"
+    },
+    "ounce-force (\"ounce\")": {
+        "abbrev": [
+            "ozf"
+        ],
+        "definition": "force"
+    },
+    "ounce-force per square inch": {
+        "abbrev": [
+            "ozi"
+        ],
+        "definition": "pressure"
+    },
+    "parsec (astronomy)": {
+        "abbrev": [
+            "pc"
+        ],
+        "definition": "length"
+    },
+    "parts per billion": {
+        "abbrev": [
+            "ppb"
+        ],
+        "definition": "concentration"
+    },
+    "parts per million": {
+        "abbrev": [
+            "ppm"
+        ],
+        "definition": "concentration"
+    },
+    "parts per trillion": {
+        "abbrev": [
+            "ppt"
+        ],
+        "definition": "concentration"
+    },
+    "peck (US dry)": {
+        "abbrev": [
+            "pk"
+        ],
+        "definition": "volume"
+    },
+    "pennyweight (troy)": {
+        "abbrev": [
+            "dwt"
+        ],
+        "definition": "mass"
+    },
+    "percent grade": {
+        "abbrev": [
+            "%"
+        ],
+        "definition": "angle, plane"
+    },
+    "phot ?": {
+        "abbrev": [
+            "ph"
+        ],
+        "definition": "illuminance"
+    },
+    "pica (US computers)": {
+        "abbrev": [
+            "pca"
+        ],
+        "definition": "length"
+    },
+    "pica (US printers)": {
+        "abbrev": [
+            "pca"
+        ],
+        "definition": "length"
+    },
+    "pint (US dry)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "volume"
+    },
+    "pint (US liquid)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "volume"
+    },
+    "point (compass) (1/32 circle)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "angle, plane"
+    },
+    "point (jewelers)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "mass"
+    },
+    "point (US computers)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "length"
+    },
+    "point (US printers)": {
+        "abbrev": [
+            "pt"
+        ],
+        "definition": "length"
+    },
+    "pound (avoirdupois) (poundmass)": {
+        "abbrev": [
+            "lb"
+        ],
+        "definition": "mass"
+    },
+    "pound (basis weight of bond paper) (sub)": {
+        "abbrev": [
+            "lb"
+        ],
+        "definition": "areal density"
+    },
+    "pound (basis weight of book paper)": {
+        "abbrev": [
+            "lb"
+        ],
+        "definition": "areal density"
+    },
+    "pound (basis weight of cover paper)": {
+        "abbrev": [
+            "lb"
+        ],
+        "definition": "areal density"
+    },
+    "pound (basis weight of newsprint)": {
+        "abbrev": [
+            "lb"
+        ],
+        "definition": "areal density"
+    },
+    "poundal ?": {
+        "abbrev": [
+            "pdl"
+        ],
+        "definition": "force"
+    },
+    "pound-force (\u201cpound\u201d)": {
+        "abbrev": [
+            "lbf"
+        ],
+        "definition": "force"
+    },
+    "pound-force per square foot": {
+        "abbrev": [
+            "psf"
+        ],
+        "definition": "pressure"
+    },
+    "pound-force per square inch": {
+        "abbrev": [
+            "psi"
+        ],
+        "definition": "pressure"
+    },
+    "Powerpoint centimeter": {
+        "abbrev": [
+            "cm"
+        ],
+        "definition": "length"
+    },
+    "quad (Q-unit) (quadrillion Btu)": {
+        "abbrev": [
+            "Qbtu"
+        ],
+        "definition": "energy"
+    },
+    "quart (US dry)": {
+        "abbrev": [
+            "qt"
+        ],
+        "definition": "volume"
+    },
+    "quart (US liquid)": {
+        "abbrev": [
+            "qt"
+        ],
+        "definition": "volume"
+    },
+    "rem (Roentgen equivalent man)": {
+        "abbrev": [
+            "R"
+        ],
+        "definition": "radiation dose equivalent"
+    },
+    "revolution (turn)": {
+        "abbrev": [
+            "r"
+        ],
+        "definition": "angle, plane"
+    },
+    "revolution per minute": {
+        "abbrev": [
+            "rpm"
+        ],
+        "definition": "angular speed"
+    },
+    "revolution per second": {
+        "abbrev": [
+            "rps"
+        ],
+        "definition": "angular speed"
+    },
+    "Richter magnitude": {
+        "abbrev": [
+            "M"
+        ],
+        "definition": "energy"
+    },
+    "rod (US survey) (16.5 survey feet)": {
+        "abbrev": [
+            "rd"
+        ],
+        "definition": "length"
+    },
+    "R-value": {
+        "abbrev": [
+            "R"
+        ],
+        "definition": "thermal insulance"
+    },
+    "screw numbers": {
+        "abbrev": [
+            "#"
+        ],
+        "definition": "length"
+    },
+    "second (sidereal)": {
+        "abbrev": [
+            "s"
+        ],
+        "definition": "time"
+    },
+    "second of arc (arc second)": {
+        "abbrev": [
+            "\u00b2"
+        ],
+        "definition": "angle, plane"
+    },
+    "second of right ascension (astronomy)": {
+        "abbrev": [
+            "s RA"
+        ],
+        "definition": "angle, plane"
+    },
+    "shotgun gauge": {
+        "abbrev": [
+            "ga"
+        ],
+        "definition": "length"
+    },
+    "slug (gee-pound)": {
+        "abbrev": [
+            "sl"
+        ],
+        "definition": "mass"
+    },
+    "specific gravity (relative density)": {
+        "abbrev": [
+            "sp gr"
+        ],
+        "definition": "density"
+    },
+    "speed of light": {
+        "abbrev": [
+            "c"
+        ],
+        "definition": "speed"
+    },
+    "square (roofing) (100 ft\u00b2)": {
+        "abbrev": [
+            "sq"
+        ],
+        "definition": "area"
+    },
+    "square degree": {
+        "abbrev": [
+            "deg\u00b2"
+        ],
+        "definition": "angle, solid"
+    },
+    "square foot": {
+        "abbrev": [
+            "sq ft"
+        ],
+        "definition": "area"
+    },
+    "square inch": {
+        "abbrev": [
+            "sq in"
+        ],
+        "definition": "area"
+    },
+    "square mil": {
+        "abbrev": [
+            "sq mil"
+        ],
+        "definition": "area"
+    },
+    "square mile (International)": {
+        "abbrev": [
+            "sq mi"
+        ],
+        "definition": "area"
+    },
+    "square yard": {
+        "abbrev": [
+            "sq yd"
+        ],
+        "definition": "area"
+    },
+    "standard cubic foot (natural gas)": {
+        "abbrev": [
+            "scf"
+        ],
+        "definition": "mass"
+    },
+    "standard gravity, free fall, or \"gee\"": {
+        "abbrev": [
+            "g"
+        ],
+        "definition": "acceleration"
+    },
+    "stokes (cm\u00b2/s)": {
+        "abbrev": [
+            "st"
+        ],
+        "definition": "viscosity, kinematic"
+    },
+    "tablespoon (US)": {
+        "abbrev": [
+            "Tbsp"
+        ],
+        "definition": "volume"
+    },
+    "teaspoon (US)": {
+        "abbrev": [
+            "tsp"
+        ],
+        "definition": "volume"
+    },
+    "therm (GPA std) (100 000 BtuIT)": {
+        "abbrev": [
+            "th"
+        ],
+        "definition": "energy"
+    },
+    "thousand acre feet": {
+        "abbrev": [
+            "Maf"
+        ],
+        "definition": "volume"
+    },
+    "thousand board feet": {
+        "abbrev": [
+            "Mbf"
+        ],
+        "definition": "volume"
+    },
+    "ton (assay)": {
+        "abbrev": [
+            "AT"
+        ],
+        "definition": "mass"
+    },
+    "ton (long, gross, or displacement)": {
+        "abbrev": [
+            "T"
+        ],
+        "definition": "mass"
+    },
+    "ton (nuclear explosive devices)": {
+        "abbrev": [
+            "t"
+        ],
+        "definition": "energy"
+    },
+    "ton (refrigeration, US com'l) (200 Btu/min)": {
+        "abbrev": [
+            "ton"
+        ],
+        "definition": "power"
+    },
+    "ton (refrigeration, US standard) ?": {
+        "abbrev": [
+            "ton"
+        ],
+        "definition": "energy"
+    },
+    "ton (register) (100 ft\u00b3) (ships)": {
+        "abbrev": [
+            "ton, CCF"
+        ],
+        "definition": "volume"
+    },
+    "ton (short or net)": {
+        "abbrev": [
+            "tn"
+        ],
+        "definition": "mass"
+    },
+    "ton mile (ton-force mile)": {
+        "abbrev": [
+            "tonf\u00b7mi"
+        ],
+        "definition": "energy"
+    },
+    "ton-force (2000 lbf) (\"ton\")": {
+        "abbrev": [
+            "tonf"
+        ],
+        "definition": "force"
+    },
+    "township": {
+        "abbrev": [
+            "twp"
+        ],
+        "definition": "area"
+    },
+    "township or range": {
+        "abbrev": [
+            "T or R"
+        ],
+        "definition": "length"
+    },
+    "trillion cubic feet (gas)": {
+        "abbrev": [
+            "tcf"
+        ],
+        "definition": "volume"
+    },
+    "USS standard plate gauge": {
+        "abbrev": [
+            "USS"
+        ],
+        "definition": "length"
+    },
+    "vinyl gauge": {
+        "abbrev": [
+            "ga"
+        ],
+        "definition": "length"
+    },
+    "Washburn & Moen gauge": {
+        "abbrev": [
+            "W&M"
+        ],
+        "definition": "length"
+    },
+    "week (calendar)": {
+        "abbrev": [
+            "wk"
+        ],
+        "definition": "time"
+    },
+    "week (work)": {
+        "abbrev": [
+            "wk"
+        ],
+        "definition": "time"
+    },
+    "yard": {
+        "abbrev": [
+            "yd"
+        ],
+        "definition": "length"
+    },
+    "year (common calendar)": {
+        "abbrev": [
+            "yr"
+        ],
+        "definition": "time"
+    },
+    "year (tropical or seasonal)": {
+        "abbrev": [
+            "a"
+        ],
+        "definition": "time"
+    }
+}

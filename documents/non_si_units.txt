@@ -1,0 +1,56 @@
+Derived From: https://ukma.org.uk/what-is-metric/definitions/non-si-units/
+Accessed July 21st 2024
+
+minute: min
+hour: h
+day: d
+hectacre: ha
+litre: l
+tonne: t
+degree: °
+astronomical unit: au
+electronvolt: eV
+dalton: Da
+neper: Np
+bel: B
+decibel: dB
+bar: bar
+nautical mile: nmi or NM
+knot: kn
+angstrom: A
+
+Derived From: https://physics.nist.gov/cgi-bin/cuu/Info/Units/outside.html
+Accessed July 21st 2024
+
+minute (angle): '
+second (angle): ''
+metric ton: t
+neper: Np
+bel: B
+unified atomic mass unit: u
+are: a
+hectare: ha
+barn: b
+curie: Ci
+roentgen: R
+rad: rad
+rem: rem
+
+Derived From: Derived From: https://www.gordonengland.co.uk/conversion/sinon4.htm
+Accessed July 21st 2024
+
+kilogram-force: kgf
+year: a
+micron: µ
+calorie: cal
+millimeter of mercury: mmHg
+standard atmosphere: atm
+torr: torr
+jansky: Jy
+curie: Ci
+I: I
+O: O
+Q: Q
+X: X
+Y: Y
+Z: Z
