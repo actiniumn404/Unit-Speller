@@ -17,6 +17,8 @@ def recurse(query, n):
         return []
     res = []
     for i in range(5):
+        if n - i <= 0:
+            continue
         if query[n - i:n + 1] in data:
             res.append(recurse(query, n - i - 1) + [random.choice(data[query[n - i:n + 1]])])
     if not res:
@@ -24,9 +26,9 @@ def recurse(query, n):
     return res[-1]
 
 for word in q.split(" "):
-    res = recurse(" " + word, len(word))
+    r = recurse(" " + word, len(word))
 
-    for unit in res:
+    for unit in r:
         print(raw_data[unit]["abbrev"], "\t", unit)
 
     print()
