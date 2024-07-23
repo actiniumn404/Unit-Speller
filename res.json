@@ -41,12 +41,6 @@
         ],
         "definition": null
     },
-    "Derived From: https://en.wikipedia.org/wiki/Non-SI_units_mentioned_in_the_SI\nAccessed July 21st 2024\n\nastronomical unit": {
-        "abbrev": [
-            "au"
-        ],
-        "definition": null
-    },
     "parsec": {
         "abbrev": [
             "pc"
@@ -146,7 +140,8 @@
     "nautical mile": {
         "abbrev": [
             "M",
-            "nmi or NM"
+            "nmi",
+            "NM"
         ],
         "definition": null
     },
@@ -596,7 +591,8 @@
     },
     "cycle per second": {
         "abbrev": [
-            "cps or cyc/s"
+            "cps",
+            "cpss"
         ],
         "definition": "1 Hz"
     },
@@ -652,7 +648,6 @@
     },
     "litre": {
         "abbrev": [
-            "symbol l or L",
             "l"
         ],
         "definition": "one cubic decimetre (1 dm3)"
@@ -665,7 +660,8 @@
     },
     "svedberg": {
         "abbrev": [
-            "S or Sv"
+            "S",
+            "Sv"
         ],
         "definition": "one hundred femtoseconds (100 fs)"
     },
@@ -2287,7 +2283,8 @@
     },
     "township or range": {
         "abbrev": [
-            "T or R"
+            "T",
+            "R"
         ],
         "definition": "length"
     },
